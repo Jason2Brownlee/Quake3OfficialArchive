@@ -21,7 +21,7 @@ Release Date | File | Description
 1999 May 10 | q3test-1.05-glibc09.i386.tar.gz | Q3Test v1.05 Linux
 1999 May 11 | [q3test_1_05.exe](bin/q3test_1_05.exe) | Q3Test v1.05 Win32
 1999 Jul 16 | [q3test_1_06.exe](bin/q3test_1_06.exe) | Q3Test v1.06 Win32
-1999 Jul 20 | q3test_win32_1_07.exe | Q3Test v1.07 Win32
+1999 Jul 20 | [q3test_win32_1_07.exe](bin/q3test_win32_1_07.exe) | Q3Test v1.07 Win32
 1999 Jul 20 | [q3test_win32_1_06-07.exe](bin/q3test_win32_1_06-07.exe) | Q3Test v1.07 Win32 Update
 1999 Jul 20 | q3test-linux-1.07-glibc-4.i386.tar.gz | Q3Test v1.07 Linux
 1999 Jul 28 | [q3test-linux-1.07-glibc-4.i386.rpm](bin/q3test-linux-1.07-glibc-4.i386.rpm) | Q3Test v1.07 Linux RPM
