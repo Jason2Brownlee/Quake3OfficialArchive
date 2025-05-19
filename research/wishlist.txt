@@ -4,7 +4,6 @@
 q3test-1.03-glibc-6.i386.rpm
 q3test-1.03-glibc-6.i386.tar.gz
 q3test_1_03_win32_server_update.zip
-q3test_1_03_win32_server.zip
 MacQ3Test_1_03.bin
 MacQ3Test_1_03_update.bin
 q3test-1.05-glibc09.i386.tar.gz

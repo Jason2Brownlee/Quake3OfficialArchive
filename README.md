@@ -13,9 +13,9 @@ Release Date | File | Description
 1999 Apr 24 | q3test-1.03-glibc-6.i386.rpm | Q3Test v1.03 Linux RPM
 1999 Apr 24 | q3test-1.03-glibc-6.i386.tar.gz | Q3Test v1.03 Linux
 1999 Apr 24 | q3test_1_03_win32_server_update.zip | Q3Test v1.03 Win32 Server Update
-1999 Apr 24 | q3test_1_03_win32_server.zip | Q3Test v1.03 Win32 Server
 1999 Apr 24 | MacQ3Test_1_03.bin | Q3Test v1.03 Mac
 1999 Apr 24 | MacQ3Test_1_03_update.bin | Q3Test v1.03  Mac Update
+1999 Apr 29 | [q3test_1_03_win32_server.zip](bin/q3test_1_03_win32_server.zip) | Q3Test v1.03 Win32 Server
 1999 May 10 | [MacQ3Test_1_05.bin](bin/MacQ3Test_1_05.bin) | Q3Test v1.05 Mac
 1999 May 10 | [q3test-1.05-glibc-9.i386.rpm](bin/q3test-1.05-glibc-9.i386.rpm) | Q3Test v1.05 Linux RPM
 1999 May 10 | q3test-1.05-glibc09.i386.tar.gz | Q3Test v1.05 Linux
