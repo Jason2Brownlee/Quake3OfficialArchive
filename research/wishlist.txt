@@ -13,5 +13,5 @@ q3demoTEST-1.10-5.i386.tar.gz
 q3demoTEST-1.10-5.i386.rpm
 
 # point releases
-
+linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
 

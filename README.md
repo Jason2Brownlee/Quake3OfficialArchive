@@ -47,7 +47,8 @@ Release Date | File | Description
 2000 Jan 13 | [MacPointBeta.bin](bin/MacPointBeta.bin) | Point Release Mac
 2000 Jan 13 | [Q3AGameSource.exe](bin/Q3AGameSource.exe) | Game Source Win32
 2000 Feb 19 | [quake3_116i_beta.zip](bin/quake3_116i_beta.zip) | Point Release v1.16i Update Win32
-2000 Feb 22 | [linuxquake3-1.16h-to-1.16j-1.i386.tar.gz](bin/linuxquake3-1.16h-to-1.16j-1.i386.tar.gz) | Point Release v1.16j Update Linux
+2000 Feb 19 | linuxquake3-1.16h-to-1.16i-1.i386.tar.gz | Point Release v1.16i Linux
+2000 Feb 22 | [linuxquake3-1.16h-to-1.16j-1.i386.tar.gz](bin/linuxquake3-1.16h-to-1.16j-1.i386.tar.gz) | Point Release v1.16j Linux
 2000 Feb 22 | [Quake3_116j_Beta.zip](bin/Quake3_116j_Beta.zip) | Point Release v1.16j Update Win32
 2000 Feb 22 | [MacQuake3_116j_Beta.sea](bin/MacQuake3_116j_Beta.sea) | Point Release v1.16j Update Mac
 2000 Mar 01 | [Q3PointRelease_116h_Beta.exe](bin/Q3PointRelease_116h_Beta.exe) | Point Release v1.16h Win32
@@ -63,6 +64,8 @@ Release Date | File | Description
 2000 May 03 | [q3pointrelease_117.exe](bin/q3pointrelease_117.exe) | Point Release v1.17 Win32
 2000 May 03 | [linuxq3apoint-1.17.x86.run](bin/linuxq3apoint-1.17.x86.run) | Point Release v1.17 Linux
 2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
+2000 Sep 22 | [Q3PointRelease_125.exe](bin/Q3PointRelease_125.exe) | Point Release v1.25 win32
+2000 Oct 13 | [Q3PointRelease_BETA_125y.exe](bin/Q3PointRelease_BETA_125y.exe) | Point Release v1.25y win32
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
