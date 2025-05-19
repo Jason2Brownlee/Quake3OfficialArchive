@@ -40,7 +40,7 @@ Release Date | File | Description
 1999 Dec 16 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
 2000 Mar 01 | [Q3PointRelease_116h_Beta.exe](bin/Q3PointRelease_116h_Beta.exe) | Point Release v1.16h Win32
 2000 Mar 05 | [MacPointRelease_116h_Beta](bin/MacPointRelease_116h_Beta) | Point Release v1.16h Mac
-2000 Mar 05 | linuxq3apoint-1.16h-beta1.x86.gz.sh | Point Release v1.16h Linux
+2000 Mar 05 | [linuxq3apoint-1.16h-beta1.x86.gz.sh](bin/linuxq3apoint-1.16h-beta1.x86.gz.sh) | Point Release v1.16h Linux
 2000 Mar 05 | [Q3PointRelease_116m_Beta.exe](bin/Q3PointRelease_116m_Beta.exe) | Point Release v1.16m Win32
 2000 Mar 05 | linuxq3apoint-1.16m-beta3.x86.gz.sh | Point Release v1.16m Linux
 2000 Mar 14 | [Q3PointRelease_116n.exe](bin/Q3PointRelease_116n.exe) | Point Release v1.16n Win32

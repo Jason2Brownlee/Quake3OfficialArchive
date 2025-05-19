@@ -11,7 +11,6 @@ q3test-1.08-glibc-2.i386.rpm
 q3DemoTEST.bin
 q3demoTEST-1.10-5.i386.tar.gz
 q3demoTEST-1.10-5.i386.rpm
-linuxq3apoint-1.16h-beta1.x86.gz.sh
 linuxq3apoint-1.16m-beta3.x86.gz.sh
 linuxq3apoint-1.16n.x86.run
 linuxq3apoint-1.17.x86.run

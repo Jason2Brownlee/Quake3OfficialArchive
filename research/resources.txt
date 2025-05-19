@@ -2,6 +2,7 @@ Resources
 
 Modern
 - https://www.gamers.org/pub/games/idgames/idstuff/quake3/
+- https://www.quaddicted.com/files/idgames2/planetquake/planetquake/quake3/
 
 Q3Test
 - https://archive.org/details/q3DemoTEST
