@@ -67,11 +67,8 @@ Release Date | File | Description
 2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
 2000 Sep 22 | [Q3PointRelease_125.exe](bin/Q3PointRelease_125.exe) | Point Release v1.25 win32
 2000 Oct 13 | [Q3PointRelease_BETA_125y.exe](bin/Q3PointRelease_BETA_125y.exe) | Point Release v1.25y win32
-
-
-2000 Dec ?? | linuxq3apoint-1.27.x86.run | Point Release 1.27 Linux
-2000 Dec ?? | MacPointRelease_127.bin |  Point Release 1.27 Mac
-
+2000 Dec xx | linuxq3apoint-1.27.x86.run | Point Release 1.27 Linux
+2000 Dec xx | MacPointRelease_127.bin | Point Release 1.27 Mac
 2000 Dec 14 | [Q3PointRelease_127g.exe](bin/Q3PointRelease_127g.exe) | Point Release 1.27g Win32
 2000 Dec 19 | [mac127beta.bin](bin/mac127beta.bin) | Point Release 1.27g Mac
 2000 Dec 22 | linuxq3ded-1.27g-beta1.tar.gz | Dedicated Server v1.27g Beta 1 Linux
