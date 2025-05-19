@@ -40,6 +40,8 @@ Release Date | File | Description
 1999 Dec 15 | [linuxq3ademo-1.11-6.x86.gz.sh](bin/linuxq3ademo-1.11-6.x86.gz.sh) | Q3Demo v1.11 Linux
 1999 Dec 16 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
 2000 Feb 22 | [linuxquake3-1.16h-to-1.16j-1.i386.tar.gz](bin/linuxquake3-1.16h-to-1.16j-1.i386.tar.gz) | Point Release v1.16j Update Linux
+2000 Feb 22 | [Quake3_116j_Beta.zip](bin/Quake3_116j_Beta.zip) | Point Release v1.16j Update Win32
+2000 Feb 22 | [MacQuake3_116j_Beta.sea](bin/MacQuake3_116j_Beta.sea) | Point Release v1.16j Update Mac
 2000 Mar 01 | [Q3PointRelease_116h_Beta.exe](bin/Q3PointRelease_116h_Beta.exe) | Point Release v1.16h Win32
 2000 Mar 05 | [MacPointRelease_116h_Beta](bin/MacPointRelease_116h_Beta) | Point Release v1.16h Mac
 2000 Mar 05 | [linuxq3apoint-1.16h-beta1.x86.gz.sh](bin/linuxq3apoint-1.16h-beta1.x86.gz.sh) | Point Release v1.16h Linux
