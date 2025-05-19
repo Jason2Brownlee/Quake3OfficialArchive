@@ -39,6 +39,9 @@ Release Date | File | Description
 1999 Dec 05 | [linuxq3ded-1.11-i386.tar.gz](bin/linuxq3ded-1.11-i386.tar.gz) | Dedicated Server v1.11 Linux
 1999 Dec 15 | [linuxq3ademo-1.11-6.x86.gz.sh](bin/linuxq3ademo-1.11-6.x86.gz.sh) | Q3Demo v1.11 Linux
 1999 Dec 16 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
+2000 Jan 13 | [Q3PointRelease_Jan1300.exe](bin/Q3PointRelease_Jan1300.exe) | Point Release Win32
+2000 Jan 13 | [MacPointBeta.bin](bin/MacPointBeta.bin) | Point Release Mac
+2000 Jan 13 | [Q3AGameSource.exe](bin/Q3AGameSource.exe) | Game Source Win32
 2000 Feb 19 | [quake3_116i_beta.zip](bin/quake3_116i_beta.zip) | Point Release v1.16i Update Win32
 2000 Feb 22 | [linuxquake3-1.16h-to-1.16j-1.i386.tar.gz](bin/linuxquake3-1.16h-to-1.16j-1.i386.tar.gz) | Point Release v1.16j Update Linux
 2000 Feb 22 | [Quake3_116j_Beta.zip](bin/Quake3_116j_Beta.zip) | Point Release v1.16j Update Win32
