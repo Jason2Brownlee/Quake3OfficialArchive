@@ -38,7 +38,9 @@ Release Date | File | Description
 1999 Dec 05 | [linuxq3ded-1.11-i386.tar.gz](bin/linuxq3ded-1.11-i386.tar.gz) | Dedicated Server v1.11 Linux
 1999 Dec 15 | [linuxq3ademo-1.11-6.x86.gz.sh](bin/linuxq3ademo-1.11-6.x86.gz.sh) | Q3Demo v1.11 Linux
 1999 Dec 16 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
-
+2000 May 03 | [q3pointrelease_117.exe](bin/q3pointrelease_117.exe) | Point Release v1.17 Win32
+2000 May 03 | [linuxq3apoint-1.32.x86.run](bin/linuxq3apoint-1.32.x86.run) | Point Release v1.17 Linux
+2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
