@@ -34,7 +34,9 @@ Release Date | File | Description
 1999 Nov 15 | q3DemoTEST.bin | Q3Demo Test Mac
 1999 Nov 15 | q3demoTEST-1.10-5.i386.tar.gz | Q3Demo Test Linux
 1999 Nov 15 | q3demoTEST-1.10-5.i386.rpm | Q3Demo Test Linux RPM
-1999 Dec 16 | [Q3ADemo.exe](bin/Q3ADemo.exe) | Q3Demo Win32
+1999 Dec 15 | [linuxq3ademo-1.11-6.x86.gz.sh](bin/linuxq3ademo-1.11-6.x86.gz.sh) | Q3Demo v1.11 Linux
+1999 Dec 16 | [Q3ADemo.exe](bin/Q3ADemo.exe) | Q3Demo v1.11 Win32
+
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
