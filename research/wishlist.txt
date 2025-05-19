@@ -25,3 +25,7 @@ quake3-OSX-129f-BETA.dmg
 quake3-macosx-129f-2.dmg
 quake3-MacClassic-129f-BETA.sit
 linuxq3apoint-1.29g-beta.x86.run
+MacOSX-Q3A-1-31-BETA2.sit
+MacOSX-Q3A-1-31-BETA3.sit
+MacALL-Q3A-1-31-BETA4.sit
+

@@ -9,13 +9,13 @@ Chronological list of Quake III Arena official releases in [bin/](bin/) includin
 Release Date | File | Description
 --- | --- | ---
 1999 Mar 01 | n/a | IHV Leak
-1999 Apr 24 | [MacQ3Test.bin](bin/MacQ3Test.bin) | Q3Test Mac.
+1999 Apr 24 | [MacQ3Test.bin](bin/MacQ3Test.bin) | Q3Test Mac
 1999 Apr 24 | q3test-1.03-glibc-6.i386.rpm | Q3Test v1.03 Linux RPM
 1999 Apr 24 | q3test-1.03-glibc-6.i386.tar.gz | Q3Test v1.03 Linux
 1999 Apr 24 | MacQ3Test_1_03.bin | Q3Test v1.03 Mac
 1999 Apr 24 | MacQ3Test_1_03_update.bin | Q3Test v1.03  Mac Update
 1999 Apr 24 | [q3test_server_win32_x86.zip](bin/q3test_server_win32_x86.zip) | Q3Test v1.03 Win32 Server
-1999 Apr 29 | [q3test_1_03_win32_server.zip](bin/q3test_1_03_win32_server.zip) | Q3Test v1.03 Win32 Server (updated)
+1999 Apr 29 | [q3test_1_03_win32_server.zip](bin/q3test_1_03_win32_server.zip) | Q3Test v1.03 Win32 Server Update
 1999 Apr 29 | [q3test_1_03_win32_server_update.zip](bin/q3test_1_03_win32_server_update.zip) | Q3Test v1.03 Win32 Server Update
 1999 May 10 | [MacQ3Test_1_05.bin](bin/MacQ3Test_1_05.bin) | Q3Test v1.05 Mac
 1999 May 10 | [q3test-1.05-glibc-9.i386.rpm](bin/q3test-1.05-glibc-9.i386.rpm) | Q3Test v1.05 Linux RPM
@@ -89,6 +89,13 @@ Release Date | File | Description
 2001 Sep 27 | [q3pointrelease_130.exe](bin/q3pointrelease_130.exe) | Point Release 1.30 Win32
 2001 Sep 28 | [MacQuake3-1.30.bin](bin/MacQuake3-1.30.bin) | Point Release 1.30 Mac
 2001 Oct 01 | [MacQuake3-1.30-OSX-b1.bin](bin/macquake3-1.30-osx-b1.bin) | Point Release 1.30 Mac
+2001 Dec 20 | [q3pointrelease_131.exe](bin/q3pointrelease_131.exe) | Point Release 1.31 Win32
+2001 Dec 21 | [linuxq3apoint-1.31.x86.run](bin/linuxq3apoint-1.31.x86.run) | Point Release 1.31 Linux
+200? ??? ?? | [MacOSX-Q3A-1-31-BETA.sit](bin/MacOSX-Q3A-1-31-BETA.sit) | Point Release 1.31 Beta 1 Mac
+200? ??? ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 3 Mac
+2002 Jan 06 | MacOSX-Q3A-1-31-BETA3.sit | Point Release 1.31 Beta 3 Mac
+2002 Jan 12 | MacALL-Q3A-1-31-BETA4.sit | Point Release 1.31 Beta 4  Mac
+
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
