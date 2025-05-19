@@ -30,7 +30,7 @@ Release Date | File | Description
 1999 Aug 03 | q3test-1.08-glibc-2.i386.rpm | Q3Test v1.08 Linux RPM
 1999 Aug 03 | [q3test-1.08-glibc-2.i386.tar.gz](bin/q3test-1.08-glibc-2.i386.tar.gz) | Q3Test v1.08 Linux
 1999 Aug 04 | [q3test_win32_1_08.exe](bin/q3test_win32_1_08.exe) | Q3Test v1.08 Win32
-1999 Nov 15 | q3DemoTEST.exe | Q3Demo Test Win32
+1999 Nov 15 | [q3DemoTEST.exe](bin/q3DemoTEST.exe) | Q3Demo Test Win32
 1999 Nov 15 | q3DemoTEST.bin | Q3Demo Test Mac
 1999 Nov 15 | q3demoTEST-1.10-5.i386.tar.gz | Q3Demo Test Linux
 1999 Nov 15 | q3demoTEST-1.10-5.i386.rpm | Q3Demo Test Linux RPM
