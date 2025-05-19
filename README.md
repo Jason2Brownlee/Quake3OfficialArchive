@@ -46,11 +46,12 @@ Release Date | File | Description
 2000 Jan 13 | [Q3PointRelease_Jan1300.exe](bin/Q3PointRelease_Jan1300.exe) | Point Release Win32
 2000 Jan 13 | [MacPointBeta.bin](bin/MacPointBeta.bin) | Point Release Mac
 2000 Jan 13 | [Q3AGameSource.exe](bin/Q3AGameSource.exe) | Game Source Win32
-2000 Feb 19 | [quake3_116i_beta.zip](bin/quake3_116i_beta.zip) | Point Release v1.16i Update Win32
+2000 Feb 19 | [quake3_116i_beta.zip](bin/quake3_116i_beta.zip) | Point Release v1.16i Win32
 2000 Feb 19 | linuxquake3-1.16h-to-1.16i-1.i386.tar.gz | Point Release v1.16i Linux
+2000 Feb 19 | MacQuake3_116i_Beta.sea | Point Release v1.16i Mac
 2000 Feb 22 | [linuxquake3-1.16h-to-1.16j-1.i386.tar.gz](bin/linuxquake3-1.16h-to-1.16j-1.i386.tar.gz) | Point Release v1.16j Linux
-2000 Feb 22 | [Quake3_116j_Beta.zip](bin/Quake3_116j_Beta.zip) | Point Release v1.16j Update Win32
-2000 Feb 22 | [MacQuake3_116j_Beta.sea](bin/MacQuake3_116j_Beta.sea) | Point Release v1.16j Update Mac
+2000 Feb 22 | [Quake3_116j_Beta.zip](bin/Quake3_116j_Beta.zip) | Point Release v1.16j Win32
+2000 Feb 22 | [MacQuake3_116j_Beta.sea](bin/MacQuake3_116j_Beta.sea) | Point Release v1.16j Mac
 2000 Mar 01 | [Q3PointRelease_116h_Beta.exe](bin/Q3PointRelease_116h_Beta.exe) | Point Release v1.16h Win32
 2000 Mar 05 | [MacPointRelease_116h_Beta](bin/MacPointRelease_116h_Beta) | Point Release v1.16h Mac
 2000 Mar 05 | [linuxq3apoint-1.16h-beta1.x86.gz.sh](bin/linuxq3apoint-1.16h-beta1.x86.gz.sh) | Point Release v1.16h Linux
@@ -66,6 +67,16 @@ Release Date | File | Description
 2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
 2000 Sep 22 | [Q3PointRelease_125.exe](bin/Q3PointRelease_125.exe) | Point Release v1.25 win32
 2000 Oct 13 | [Q3PointRelease_BETA_125y.exe](bin/Q3PointRelease_BETA_125y.exe) | Point Release v1.25y win32
+
+
+2000 Dec ?? | linuxq3apoint-1.27.x86.run | Point Release 1.27 Linux
+2000 Dec ?? | MacPointRelease_127.bin |  Point Release 1.27 Mac
+
+2000 Dec 14 | [Q3PointRelease_127g.exe](bin/Q3PointRelease_127g.exe) | Point Release 1.27g Win32
+2000 Dec 19 | [mac127beta.bin](bin/mac127beta.bin) | Point Release 1.27g Mac
+2000 Dec 22 | linuxq3ded-1.27g-beta1.tar.gz | Dedicated Server v1.27g Beta 1 Linux
+2000 Dec 22 | linuxq3a-1.27g-beta1.tar.gz | Point Release 1.27g Beta 1 Linux
+2000 Dec ?? | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.

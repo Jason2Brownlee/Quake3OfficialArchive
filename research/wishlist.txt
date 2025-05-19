@@ -14,4 +14,9 @@ q3demoTEST-1.10-5.i386.rpm
 
 # point releases
 linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
+MacQuake3_116i_Beta.sea
+linuxq3apoint-1.27.x86.run
+MacPointRelease_127.bin
+linuxq3ded-1.27g-beta1.tar.gz
+linuxq3a-1.27g-beta1.tar.gz
 
