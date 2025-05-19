@@ -8,6 +8,7 @@ Modern
 - https://en.ds-servers.com/gf/quake-3-arena/official-patches/
 - https://archive.org/download/quake3-patches/Files/
 - https://www.mirrorservice.org/sites/quakeunity.com/point_releases/
+- https://www.mirrorservice.org/sites/quakeunity.com/demohq/
 
 Q3Test
 - https://archive.org/details/q3DemoTEST
