@@ -4,6 +4,9 @@ Modern
 - https://www.gamers.org/pub/games/idgames/idstuff/quake3/
 - https://www.quaddicted.com/files/idgames2/planetquake/planetquake/quake3/
 - https://www.gamers.org/pub/idgames2/planetquake/quake3/
+- https://en.ds-servers.com/gf/quake-3-arena/
+- https://en.ds-servers.com/gf/quake-3-arena/official-patches/
+
 
 Q3Test
 - https://archive.org/details/q3DemoTEST

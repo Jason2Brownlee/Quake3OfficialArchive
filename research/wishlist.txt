@@ -13,5 +13,5 @@ q3demoTEST-1.10-5.i386.tar.gz
 q3demoTEST-1.10-5.i386.rpm
 
 # point releases
-linuxq3apoint-1.17.x86.run
+
 

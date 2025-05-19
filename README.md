@@ -34,10 +34,12 @@ Release Date | File | Description
 1999 Nov 15 | q3DemoTEST.bin | Q3Demo Test Mac
 1999 Nov 15 | q3demoTEST-1.10-5.i386.tar.gz | Q3Demo Test Linux
 1999 Nov 15 | q3demoTEST-1.10-5.i386.rpm | Q3Demo Test Linux RPM
+1999 Dec 02 | n/a | Retail Release
 1999 Dec 03 | [Q3ADemo.exe](bin/Q3ADemo.exe) | Q3Demo v1.11 Win32
 1999 Dec 05 | [linuxq3ded-1.11-i386.tar.gz](bin/linuxq3ded-1.11-i386.tar.gz) | Dedicated Server v1.11 Linux
 1999 Dec 15 | [linuxq3ademo-1.11-6.x86.gz.sh](bin/linuxq3ademo-1.11-6.x86.gz.sh) | Q3Demo v1.11 Linux
 1999 Dec 16 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
+2000 Feb 22 | [linuxquake3-1.16h-to-1.16j-1.i386.tar.gz](bin/linuxquake3-1.16h-to-1.16j-1.i386.tar.gz) | Point Release v1.16j Update Linux
 2000 Mar 01 | [Q3PointRelease_116h_Beta.exe](bin/Q3PointRelease_116h_Beta.exe) | Point Release v1.16h Win32
 2000 Mar 05 | [MacPointRelease_116h_Beta](bin/MacPointRelease_116h_Beta) | Point Release v1.16h Mac
 2000 Mar 05 | [linuxq3apoint-1.16h-beta1.x86.gz.sh](bin/linuxq3apoint-1.16h-beta1.x86.gz.sh) | Point Release v1.16h Linux
@@ -48,7 +50,7 @@ Release Date | File | Description
 2000 Mar 14 | [linuxq3apoint-1.16n.x86.run](bin/linuxq3apoint-1.16n.x86.run) | Point Release v1.16n Linux
 2000 Mar 14 | [MacPointRelease_116n](bin/MacPointRelease_116n) | Point Release v1.16n Mac
 2000 May 03 | [q3pointrelease_117.exe](bin/q3pointrelease_117.exe) | Point Release v1.17 Win32
-2000 May 03 | linuxq3apoint-1.17.x86.run | Point Release v1.17 Linux
+2000 May 03 | [linuxq3apoint-1.17.x86.run](bin/linuxq3apoint-1.17.x86.run) | Point Release v1.17 Linux
 2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
