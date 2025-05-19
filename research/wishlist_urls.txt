@@ -135,8 +135,6 @@ ftp://tux.telefragged.com/pub/quake3/mac/MacQ3Test_1_03_update.bin
 http://www.planetquake.com/dl/dl.asp?quake3/MacQ3Test_1_03_update.bin
 http://www.quakecity.net/files.asp?dir=quake3&file=MacQ3Test_1_03_update.bin
 
-ftp://ftp.bluesnews.com/q3test/q3test-1.05-glibc09.i386.tar.gz
-
 ftp://ftp.bluesnews.com/q3a/q3test-linux-1.07-glibc-4.i386.tar.gz
 ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
 ftp://ftp.cdrom.com/pub/idgames2/idstuff/quake3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
