@@ -67,13 +67,25 @@ Release Date | File | Description
 2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
 2000 Sep 22 | [Q3PointRelease_125.exe](bin/Q3PointRelease_125.exe) | Point Release v1.25 win32
 2000 Oct 13 | [Q3PointRelease_BETA_125y.exe](bin/Q3PointRelease_BETA_125y.exe) | Point Release v1.25y win32
-2000 Dec xx | linuxq3apoint-1.27.x86.run | Point Release 1.27 Linux
-2000 Dec xx | MacPointRelease_127.bin | Point Release 1.27 Mac
+2000 Dec ?? | linuxq3apoint-1.27.x86.run | Point Release 1.27 Linux
+2000 Dec ?? | MacPointRelease_127.bin | Point Release 1.27 Mac
 2000 Dec 14 | [Q3PointRelease_127g.exe](bin/Q3PointRelease_127g.exe) | Point Release 1.27g Win32
+2000 Dec 16 | [quake3nommx_127g.zip](bin/quake3nommx_127g.zip) | Point Release 1.27g Win32 No MMX
 2000 Dec 19 | [mac127beta.bin](bin/mac127beta.bin) | Point Release 1.27g Mac
-2000 Dec 22 | linuxq3ded-1.27g-beta1.tar.gz | Dedicated Server v1.27g Beta 1 Linux
+2000 Dec 22 | linuxq3ded-1.27g-beta1.tar.gz | Point Release v1.27g Beta 1 Linux Dedicated
 2000 Dec 22 | linuxq3a-1.27g-beta1.tar.gz | Point Release 1.27g Beta 1 Linux
 2000 Dec ?? | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
+2001 Jul 18 | linuxq3apoint-console-1.29f-beta1.x86.run | Point Release 1.29f Linux Dedicated
+2001 Jul 18 | linuxq3apoint-1.29f-beta1.x86.run | Point Release 1.29f Linux
+2001 Jul 18 | [q3pointrelease_129f_beta.exe](bin/q3pointrelease_129f_beta.exe) | Point Release 1.29f Win32
+2001 Jul 18 | quake3-OSX-129f-BETA.dmg | Point Release 1.29f Beta 1 Mac
+2001 Jul 20 | quake3-macosx-129f-2.dmg | Point Release 1.29f Beta 2 Mac
+2001 Jul 21 | quake3-MacClassic-129f-BETA.sit | Point Release 1.29f Mac
+2001 Jul 27 | [q3pointrelease_129g_beta.exe](bin/q3pointrelease_129g_beta.exe) | Point Release 1.29g Win32
+2001 Jul 27 | linuxq3apoint-1.29g-beta.x86.run| Point Release 1.29g Linux
+2001 Jul 31 | [q3pointrelease_129h_beta.exe](bin/q3pointrelease_129h_beta.exe) | Point Release 1.29h Win32
+2001 Jul 31 | [linuxq3apoint-1.29h-beta.x86.run](bin/linuxq3apoint-1.29h-beta.x86.run) | Point Release 1.29h Linux
+
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.

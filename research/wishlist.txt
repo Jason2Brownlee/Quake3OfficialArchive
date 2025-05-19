@@ -19,4 +19,9 @@ linuxq3apoint-1.27.x86.run
 MacPointRelease_127.bin
 linuxq3ded-1.27g-beta1.tar.gz
 linuxq3a-1.27g-beta1.tar.gz
-
+linuxq3apoint-console-1.29f-beta1.x86.run
+linuxq3apoint-1.29f-beta1.x86.run
+quake3-OSX-129f-BETA.dmg
+quake3-macosx-129f-2.dmg
+quake3-MacClassic-129f-BETA.sit
+linuxq3apoint-1.29g-beta.x86.run

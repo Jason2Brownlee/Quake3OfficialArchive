@@ -6,7 +6,8 @@ Modern
 - https://www.gamers.org/pub/idgames2/planetquake/quake3/
 - https://en.ds-servers.com/gf/quake-3-arena/
 - https://en.ds-servers.com/gf/quake-3-arena/official-patches/
-
+- https://archive.org/download/quake3-patches/Files/
+- https://www.mirrorservice.org/sites/quakeunity.com/point_releases/
 
 Q3Test
 - https://archive.org/details/q3DemoTEST
