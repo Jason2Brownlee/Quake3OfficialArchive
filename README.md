@@ -38,7 +38,9 @@ Release Date | File | Description
 1999 Dec 03 | [Q3ADemo.exe](bin/Q3ADemo.exe) | Q3Demo v1.11 Win32
 1999 Dec 05 | [linuxq3ded-1.11-i386.tar.gz](bin/linuxq3ded-1.11-i386.tar.gz) | Dedicated Server v1.11 Linux
 1999 Dec 15 | [linuxq3ademo-1.11-6.x86.gz.sh](bin/linuxq3ademo-1.11-6.x86.gz.sh) | Q3Demo v1.11 Linux
-1999 Dec 16 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
+1999 Dec 15 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
+1999 Dec 15 | [Q3ToolSetup.exe](bin/Q3ToolSetup.exe) | Game Tools Win32
+1999 Dec 22 | [Q3ToolSetup_Dec221999.exe](bin/Q3ToolSetup_Dec221999.exe) | Game Tools Win32
 2000 Jan 13 | [q3pointbeta.exe](bin/q3pointbeta.exe) | Point Release Beta 1 Win32
 2000 Jan 13 | [q3pointbeta2.exe](bin/q3pointbeta2.exe) | Point Release Beta 2 Win32
 2000 Jan 13 | [Q3PointRelease_Jan1300.exe](bin/Q3PointRelease_Jan1300.exe) | Point Release Win32
@@ -57,6 +59,7 @@ Release Date | File | Description
 2000 Mar 14 | [Q3PointRelease_116n.exe](bin/Q3PointRelease_116n.exe) | Point Release v1.16n Win32
 2000 Mar 14 | [linuxq3apoint-1.16n.x86.run](bin/linuxq3apoint-1.16n.x86.run) | Point Release v1.16n Linux
 2000 Mar 14 | [MacPointRelease_116n](bin/MacPointRelease_116n) | Point Release v1.16n Mac
+2000 Mar 17 | [Q3ToolSetup_Mar172000.exe](bin/Q3ToolSetup_Mar172000.exe) | Game Tools
 2000 May 03 | [q3pointrelease_117.exe](bin/q3pointrelease_117.exe) | Point Release v1.17 Win32
 2000 May 03 | [linuxq3apoint-1.17.x86.run](bin/linuxq3apoint-1.17.x86.run) | Point Release v1.17 Linux
 2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
