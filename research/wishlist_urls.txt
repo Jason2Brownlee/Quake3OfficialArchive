@@ -175,19 +175,6 @@ http://src.doc.ic.ac.uk/packages/quake/idstuff/quake3/linux/q3test-1.08-glibc-2.
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl3&d_url=ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 
-ftp://ftp.bluesnews.com/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.tar.gz
-ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.tar.gz
-ftp://ftp.fragzone.se/pub/quake3/q3test-1.08-glibc-2.i386.tar.gz
-http://ftp.telepac.pt/pub/3dfiles/games/q3test-1.08-glibc-2.i386.tar.gz
-http://ftp.telepac.pt/pub/3dfxmania/games/q3test-1.08-glibc-2.i386.tar.gz
-http://ftp.telepac.pt/pub/idgames2/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.tar.gz
-http://mirrors.telepac.pt/pub/3dfxmania/games/q3test-1.08-glibc-2.i386.tar.gz
-http://mirrors.telepac.pt/pub/idgames/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.tar.gz
-http://src.doc.ic.ac.uk/packages/idgames/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.tar.gz
-http://src.doc.ic.ac.uk/packages/quake/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.tar.gz
-http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.tar.gz
-http://www.q3arena.pl/download/q3test/linux/q3test-1.08-glibc-2.i386.tar.gz
-
 ftp://ftp.3dgamers.com/pub/3daction/00archives/quake3arena/releases/q3demotest.exe
 ftp://ftp.avault.com/demos/q3DemoTEST.exe
 ftp://ftp.bluesnews.com/idstuff/quake3/win32/q3DemoTEST.exe
