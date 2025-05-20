@@ -20,7 +20,6 @@ MacQuake3_116i_Beta.sea
 linuxq3apoint-1.27.x86.run
 MacPointRelease_127.bin
 linuxq3ded-1.27g-beta1.tar.gz
-linuxq3a-1.27g-beta1.tar.gz
 linuxq3apoint-console-1.29f-beta1.x86.run
 linuxq3apoint-1.29f-beta1.x86.run
 quake3-OSX-129f-BETA.dmg
@@ -34,8 +33,13 @@ Q3DedicatedServer-132-Test.tar.gz
 Quake3-132-Test3-Update.sit
 Quake3-132-Test4-Update.sit
 
+
+
 # double check these...
+
+# same as q3pointrelease_132.exe?
 Q3PR132_10-7-02.exe
+# a mod?
 Quake3-Q3F-testfix.sit
 
 

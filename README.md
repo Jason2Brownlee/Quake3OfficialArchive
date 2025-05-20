@@ -81,7 +81,7 @@ Release Date | File | Description
 2000 Dec 21 | [Q3A_TA_GameSource_127.exe](bin/Q3A_TA_GameSource_127.exe) | Game Source v1.27 Win32
 2000 Dec 21 | [Q3A_ToolSource.exe](/bin/Q3A_ToolSource.exe) | Tool Source Win32
 2000 Dec 22 | linuxq3ded-1.27g-beta1.tar.gz | Point Release v1.27g Linux Dedicated
-2000 Dec 22 | linuxq3a-1.27g-beta1.tar.gz | Point Release 1.27g Linux
+2000 Dec 22 | [linuxq3a-1.27g-beta1.tar.gz](bin/linuxq3a-1.27g-beta1.tar.gz) | Point Release 1.27g Linux
 2000 Dec ?? | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 2001 Jan 04 | [roq.zip](bin/roq.zip) | RoQ encoder
 2001 Jan 15 | [Q3Tools_EditorSupport.exe](bin/Q3Tools_EditorSupport.exe) | Tool Support
@@ -106,8 +106,6 @@ Release Date | File | Description
 200? ??? ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 3 Mac
 2002 Jan 06 | MacOSX-Q3A-1-31-BETA3.sit | Point Release 1.31 Beta 3 Mac
 2002 Jan 12 | [MacALL-Q3A-1-31-BETA4.sit](bin/MacALL-Q3A-1-31-BETA4.sit) | Point Release 1.31 Beta 4  Mac
-2002 Jan 12 | Quake3-Q3F-testfix.sit | ?
-2002 Oct 07 | Q3PR132_10-7-02.exe | Point Release 1.32 Win32
 2002 Oct 07 | [q3pointrelease_132.exe](bin/q3pointrelease_132.exe) | Point Release 1.32 Win32
 2002 Oct 07 | [linuxq3apoint-1.32.x86.run](bin/linuxq3apoint-1.32.x86.run) | Point Release 1.32 Linux
 2002 Oct 09 | Quake3-1-32-test.dmg | Point Release 1.32 Mac
