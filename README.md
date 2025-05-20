@@ -37,15 +37,19 @@ Release Date | File | Description
 1999 Dec 02 | n/a | Retail Release
 1999 Dec 03 | [Q3ADemo.exe](bin/Q3ADemo.exe) | Q3Demo v1.11 Win32
 1999 Dec 05 | [linuxq3ded-1.11-i386.tar.gz](bin/linuxq3ded-1.11-i386.tar.gz) | Dedicated Server v1.11 Linux
+1999 Dec 14 | [Q3ToolSetup.exe](bin/Q3ToolSetup.exe) | Game Tools Win32
 1999 Dec 15 | [linuxq3ademo-1.11-6.x86.gz.sh](bin/linuxq3ademo-1.11-6.x86.gz.sh) | Q3Demo v1.11 Linux
 1999 Dec 15 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
-1999 Dec 15 | [Q3ToolSetup.exe](bin/Q3ToolSetup.exe) | Game Tools Win32
 1999 Dec 22 | [Q3ToolSetup_Dec221999.exe](bin/Q3ToolSetup_Dec221999.exe) | Game Tools Win32
+1999 Dec 29 | [Q3Ashader_manual.doc](bin/Q3Ashader_manual.doc) | Shader Manual
 2000 Jan 13 | [q3pointbeta.exe](bin/q3pointbeta.exe) | Point Release Beta 1 Win32
 2000 Jan 13 | [q3pointbeta2.exe](bin/q3pointbeta2.exe) | Point Release Beta 2 Win32
 2000 Jan 13 | [Q3PointRelease_Jan1300.exe](bin/Q3PointRelease_Jan1300.exe) | Point Release Win32
 2000 Jan 13 | [MacPointBeta.bin](bin/MacPointBeta.bin) | Point Release Mac
 2000 Jan 13 | [Q3AGameSource.exe](bin/Q3AGameSource.exe) | Game Source Win32
+2000 Jan 17 | [Q3ABotEdit.zip](bin/Q3ABotEdit.zip) | Bot editing manual
+2000 Feb 16 | [q3rmanpc.zip](bin/q3rmanpc.zip)<br>[q3rmanhtml.zip](bin/q3rmanhtml.zip) | Q3Radiant Manual HTML and DOC
+2000 Feb 17 | [q3rmanpdf.zip](bin/q3rmanpdf.zip) | Q3Radiant Manual PDF
 2000 Feb 19 | [quake3_116i_beta.zip](bin/quake3_116i_beta.zip) | Point Release v1.16i Win32
 2000 Feb 19 | linuxquake3-1.16h-to-1.16i-1.i386.tar.gz | Point Release v1.16i Linux
 2000 Feb 19 | MacQuake3_116i_Beta.sea | Point Release v1.16i Mac
@@ -58,6 +62,7 @@ Release Date | File | Description
 2000 Mar 05 | [Q3PointRelease_116m_Beta.exe](bin/Q3PointRelease_116m_Beta.exe) | Point Release v1.16m Win32
 2000 Mar 05 | [linuxq3apoint-1.16m-beta3.x86.gz.sh](bin/linuxq3apoint-1.16m-beta3.x86.gz.sh) | Point Release v1.16m Linux
 2000 Mar 05 | [MacPointRelease_116m_Beta.bin](MacPointRelease_116m_Beta.bin) | Point Release v1.16m Mac
+2000 Mar 14 | [Maxfiles.zip](bin/Maxfiles.zip) | 3DS Max Player Files
 2000 Mar 14 | [Q3PointRelease_116n.exe](bin/Q3PointRelease_116n.exe) | Point Release v1.16n Win32
 2000 Mar 14 | [linuxq3apoint-1.16n.x86.run](bin/linuxq3apoint-1.16n.x86.run) | Point Release v1.16n Linux
 2000 Mar 14 | [MacPointRelease_116n](bin/MacPointRelease_116n) | Point Release v1.16n Mac
@@ -78,6 +83,8 @@ Release Date | File | Description
 2000 Dec 22 | linuxq3ded-1.27g-beta1.tar.gz | Point Release v1.27g Linux Dedicated
 2000 Dec 22 | linuxq3a-1.27g-beta1.tar.gz | Point Release 1.27g Linux
 2000 Dec ?? | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
+2001 Jan 04 | [roq.zip](bin/roq.zip) | RoQ encoder
+2001 Jan 15 | [Q3Tools_EditorSupport.exe](bin/Q3Tools_EditorSupport.exe) | Tool Support
 2001 Jul 18 | linuxq3apoint-console-1.29f-beta1.x86.run | Point Release 1.29f Linux Dedicated
 2001 Jul 18 | linuxq3apoint-1.29f-beta1.x86.run | Point Release 1.29f Linux
 2001 Jul 18 | [q3pointrelease_129f_beta.exe](bin/q3pointrelease_129f_beta.exe) | Point Release 1.29f Win32
