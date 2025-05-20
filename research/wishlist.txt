@@ -33,3 +33,9 @@ Quake3-1-32-test.dmg
 Q3DedicatedServer-132-Test.tar.gz
 Quake3-132-Test3-Update.sit
 Quake3-132-Test4-Update.sit
+
+# double check these...
+Q3PR132_10-7-02.exe
+Quake3-Q3F-testfix.sit
+
+

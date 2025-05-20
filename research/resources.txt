@@ -20,3 +20,7 @@ Q3Test
 
 PR
 - http://www.bluesnews.com/files/idstuff/quake3/win32/
+
+
+level editor (out of scope?)
+- https://www.gamers.org/pub/idgames2/idstuff/qeradiant/GtkRadiant/GtkRadiant-1_3/
