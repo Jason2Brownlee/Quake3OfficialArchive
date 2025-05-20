@@ -13,19 +13,21 @@ q3DemoTEST.bin
 q3demoTEST-1.10-5.i386.tar.gz
 q3demoTEST-1.10-5.i386.rpm
 
-# point releases
+# point releases linux
 linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
-MacQuake3_116i_Beta.sea
 linuxq3apoint-1.27.x86.run
-MacPointRelease_127.bin
 linuxq3apoint-1.29f-beta1.x86.run
+linuxq3apoint-1.29g-beta.x86.run
+Q3DedicatedServer-132-Test.tar.gz
+
+# point releases mac
+MacQuake3_116i_Beta.sea
+MacPointRelease_127.bin
 quake3-OSX-129f-BETA.dmg
 quake3-macosx-129f-2.dmg
 quake3-MacClassic-129f-BETA.sit
-linuxq3apoint-1.29g-beta.x86.run
 MacOSX-Q3A-1-31-BETA2.sit
 Quake3-1-32-test.dmg
-Q3DedicatedServer-132-Test.tar.gz
 Quake3-132-Test3-Update.sit
 Quake3-132-Test4-Update.sit
 
@@ -33,8 +35,6 @@ Quake3-132-Test4-Update.sit
 
 # double check these...
 
-# same as q3pointrelease_132.exe?
-Q3PR132_10-7-02.exe
 # a mod?
 Quake3-Q3F-testfix.sit
 
