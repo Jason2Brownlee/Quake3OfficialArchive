@@ -80,7 +80,7 @@ Release Date | File | Description
 2000 Dec 19 | [mac127beta.bin](bin/mac127beta.bin) | Point Release 1.27g Mac
 2000 Dec 21 | [Q3A_TA_GameSource_127.exe](bin/Q3A_TA_GameSource_127.exe) | Game Source v1.27 Win32
 2000 Dec 21 | [Q3A_ToolSource.exe](/bin/Q3A_ToolSource.exe) | Tool Source Win32
-2000 Dec 22 | linuxq3ded-1.27g-beta1.tar.gz | Point Release v1.27g Linux Dedicated
+2000 Dec 22 | [linuxq3ded-1.27g-beta1.tar.gz](bin/linuxq3ded-1.27g-beta1.tar.gz) | Point Release v1.27g Linux Dedicated
 2000 Dec 22 | [linuxq3a-1.27g-beta1.tar.gz](bin/linuxq3a-1.27g-beta1.tar.gz) | Point Release 1.27g Linux
 2000 Dec ?? | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 2001 Jan 04 | [roq.zip](bin/roq.zip) | RoQ encoder
