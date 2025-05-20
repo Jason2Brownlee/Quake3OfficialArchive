@@ -85,7 +85,7 @@ Release Date | File | Description
 2000 Dec ?? | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 2001 Jan 04 | [roq.zip](bin/roq.zip) | RoQ encoder
 2001 Jan 15 | [Q3Tools_EditorSupport.exe](bin/Q3Tools_EditorSupport.exe) | Tool Support
-2001 Jul 18 | linuxq3apoint-console-1.29f-beta1.x86.run | Point Release 1.29f Linux Dedicated
+2001 Jul 18 | [linuxq3apoint-console-1.29f-beta1.x86.run](bin/linuxq3apoint-console-1.29f-beta1.x86.run) | Point Release 1.29f Linux Dedicated
 2001 Jul 18 | linuxq3apoint-1.29f-beta1.x86.run | Point Release 1.29f Linux
 2001 Jul 18 | [q3pointrelease_129f_beta.exe](bin/q3pointrelease_129f_beta.exe) | Point Release 1.29f Win32
 2001 Jul 18 | quake3-OSX-129f-BETA.dmg | Point Release 1.29f Beta 1 Mac
