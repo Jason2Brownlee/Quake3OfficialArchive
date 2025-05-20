@@ -106,6 +106,7 @@ Release Date | File | Description
 2002 Oct 24 | linuxq3a-sdk-1.32.x86.run | Game Source v1.32 Linux
 2003 Sep 09 | [linuxq3apoint-1.32b-2.x86.run](bin/linuxq3apoint-1.32b-2.x86.run) | Point Release 1.32b Beta 2 Linux
 2003 ??? ?? | [linuxq3apoint-1.32b-3.x86.run](bin/linuxq3apoint-1.32b-3.x86.run) | Point Release 1.32b Beta 3 Linux
+2005 Aug 19 | [quake3-1.32b-source.zip](bin/quake3-1.32b-source.zip) | Engine Source 1.32b GPL
 2006 May 08 | [quake3-1.32c.zip](bin/quake3-1.32c.zip) | Point Release 1.32c Win32
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
