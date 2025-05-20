@@ -103,7 +103,7 @@ Release Date | File | Description
 2002 Oct 11 | Quake3-132-Test4-Update.sit | Point Release 1.32 Test 3 Mac
 2002 Oct 24 | [linuxq3apoint-1.32b.x86.run](bin/linuxq3apoint-1.32b.x86.run) | Point Release 1.32b Beta 1 Linux
 2002 Oct 24 | [Q3A_TA_GameSource_132.exe](bin/Q3A_TA_GameSource_132.exe) | Game Source v1.32 Win32
-2002 Oct 24 | linuxq3a-sdk-1.32.x86.run | Game Source v1.32 Linux
+2002 Oct 24 | [linuxq3a-sdk-1.32.x86.run](bin/linuxq3a-sdk-1.32.x86.run) | Game Source v1.32 Linux
 2003 Sep 09 | [linuxq3apoint-1.32b-2.x86.run](bin/linuxq3apoint-1.32b-2.x86.run) | Point Release 1.32b Beta 2 Linux
 2003 ??? ?? | [linuxq3apoint-1.32b-3.x86.run](bin/linuxq3apoint-1.32b-3.x86.run) | Point Release 1.32b Beta 3 Linux
 2005 Aug 19 | [quake3-1.32b-source.zip](bin/quake3-1.32b-source.zip) | Engine Source 1.32b GPL
