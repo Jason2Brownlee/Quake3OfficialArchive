@@ -16,3 +16,7 @@ Q3Test
 - https://archive.org/download/quake_prerelease
 - https://archive.org/details/quakeprototypes
 - https://www.betaarchive.com/forum/viewtopic.php?t=22492
+
+
+PR
+- http://www.bluesnews.com/files/idstuff/quake3/win32/

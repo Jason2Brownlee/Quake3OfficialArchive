@@ -9,7 +9,7 @@ Chronological list of Quake III Arena official releases in [bin/](bin/) includin
 Release Date | File | Description
 --- | --- | ---
 1999 Mar 01 | n/a | IHV Leak
-1999 Apr 24 | [MacQ3Test.bin](bin/MacQ3Test.bin) | Q3Test Mac
+1999 Apr 24 | [MacQ3Test.bin](bin/MacQ3Test.bin) | Q3Test v1.02 Mac
 1999 Apr 24 | q3test-1.03-glibc-6.i386.rpm | Q3Test v1.03 Linux RPM
 1999 Apr 24 | q3test-1.03-glibc-6.i386.tar.gz | Q3Test v1.03 Linux
 1999 Apr 24 | MacQ3Test_1_03.bin | Q3Test v1.03 Mac
@@ -95,7 +95,18 @@ Release Date | File | Description
 200? ??? ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 3 Mac
 2002 Jan 06 | MacOSX-Q3A-1-31-BETA3.sit | Point Release 1.31 Beta 3 Mac
 2002 Jan 12 | MacALL-Q3A-1-31-BETA4.sit | Point Release 1.31 Beta 4  Mac
-
+2002 Oct 07 | [q3pointrelease_132.exe](bin/q3pointrelease_132.exe) | Point Release 1.32 Win32
+2002 Oct 07 | [linuxq3apoint-1.32.x86.run](bin/linuxq3apoint-1.32.x86.run) | Point Release 1.32 Linux
+2002 Oct 09 | Quake3-1-32-test.dmg | Point Release 1.32 Mac
+2002 Oct 09 | Q3DedicatedServer-132-Test.tar.gz | Point Release 1.32 Mac Dedicated
+2002 Oct 10 | Quake3-132-Test3-Update.sit | Point Release 1.32 Test 3 Mac
+2002 Oct 11 | Quake3-132-Test4-Update.sit | Point Release 1.32 Test 3 Mac
+2002 Oct 24 | [linuxq3apoint-1.32b.x86.run](bin/linuxq3apoint-1.32b.x86.run) | Point Release 1.32b Beta 1 Linux
+2002 Oct 24 | [Q3A_TA_GameSource_132.exe](bin/Q3A_TA_GameSource_132.exe) | Game Source v1.32 Win32
+2002 Oct 24 | linuxq3a-sdk-1.32.x86.run | Game Source v1.32 Linux
+2003 Sep 09 | [linuxq3apoint-1.32b-2.x86.run](bin/linuxq3apoint-1.32b-2.x86.run) | Point Release 1.32b Beta 2 Linux
+2003 ??? ?? | [linuxq3apoint-1.32b-3.x86.run](bin/linuxq3apoint-1.32b-3.x86.run) | Point Release 1.32b Beta 3 Linux
+2006 May 08 | [quake3-1.32c.zip](bin/quake3-1.32c.zip) | Point Release 1.32c Win32
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
