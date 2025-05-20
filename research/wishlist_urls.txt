@@ -1,3 +1,45 @@
 # Known historical locations of wishlist files
 
-todo...
+# q3test-1.03-glibc-6.i386.rpm
+ftp://206.191.205.7/pub/redwood/q3a/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.barrysworld.com/Quake3/test/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.barrysworld.com/Quake3/test/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
+ftp://ftp.barrysworld.com/q3test-1.03-glibc-6.i386.rpm...
+ftp://ftp.bluesnews.com/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
+ftp://ftp.cdrom.com/pub/quake/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.cdrom.com/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.datacomm.ch/pub/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.linuxquake.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.stomped.com/pub/redwood/q3a/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.stomped.com/pub/redwood/q3a/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
+ftp://ftp.stomped.com/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.warzone.com/pub/quake3/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.warzone.com/pub/quake3/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
+ftp://ftp.warzone.com/q3test-1.03-glibc-6.i386.rpm
+ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3test-1.03-glibc-6.i386.rpm
+ftp://qftp1.heat.net/pub/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://qftp1.heat.net/pub/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
+ftp://qftp1.heat.net/q3test-1.03-glibc-6.i386.rpm
+ftp://tux.telefragged.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://tux.telefragged.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
+ftp://tux.telefragged.com/q3test-1.03-glibc-6.i386.rpm...
+http://www.clanworld.org/files/quake3arena/game/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.clanworld.org/files/quake3arena/game/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
+http://www.clanworld.org/files/quake3arena/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.clanworld.org/q3test-1.03-glibc-6.i386.rpm
+http://www.planetquake.com/dl/dl.asp?quake3/q3test-1.03-glibc-6.i386.rpm
+http://www.q3arena.pl/download/q3test/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakecity.net/files.asp?dir=quake3&file;=q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
+http://www.quakecity.net/files.asp?dir=quake3&file=q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.barrysworld.com/Quake3/test/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.stomped.com/pub/redwood/q3a/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.warzone.com/pub/quake3/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://qftp1.heat.net/pub/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://tux.telefragged.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=http://www.clanworld.org/files/quake3arena/game/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=http://www.quakecity.net/files.asp?dir=quake3&file=q3test-1.03-glibc-6.i386.rpm
+
+

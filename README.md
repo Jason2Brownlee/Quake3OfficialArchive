@@ -11,7 +11,7 @@ Release Date | File | Description
 1999 Mar 01 | n/a | IHV Leak
 1999 Apr 24 | [MacQ3Test.bin](bin/MacQ3Test.bin) | Q3Test v1.02 Mac
 1999 Apr 24 | q3test-1.03-glibc-6.i386.rpm | Q3Test v1.03 Linux RPM
-1999 Apr 24 | q3test-1.03-glibc-6.i386.tar.gz | Q3Test v1.03 Linux
+1999 Apr 24 | [q3test-1.03-glibc-6.i386.tar.gz](bin/q3test-1.03-glibc-6.i386.tar.gz) | Q3Test v1.03 Linux
 1999 Apr 24 | MacQ3Test_1_03.bin | Q3Test v1.03 Mac
 1999 Apr 24 | MacQ3Test_1_03_update.bin | Q3Test v1.03  Mac Update
 1999 Apr 24 | [q3test_server_win32_x86.zip](bin/q3test_server_win32_x86.zip) | Q3Test v1.03 Win32 Server
@@ -30,10 +30,10 @@ Release Date | File | Description
 1999 Aug 03 | q3test-1.08-glibc-2.i386.rpm | Q3Test v1.08 Linux RPM
 1999 Aug 03 | [q3test-1.08-glibc-2.i386.tar.gz](bin/q3test-1.08-glibc-2.i386.tar.gz) | Q3Test v1.08 Linux
 1999 Aug 04 | [q3test_win32_1_08.exe](bin/q3test_win32_1_08.exe) | Q3Test v1.08 Win32
-1999 Nov 15 | [q3DemoTEST.exe](bin/q3DemoTEST.exe) | Q3Demo Test Win32
-1999 Nov 15 | q3DemoTEST.bin | Q3Demo Test Mac
-1999 Nov 15 | q3demoTEST-1.10-5.i386.tar.gz | Q3Demo Test Linux
-1999 Nov 15 | q3demoTEST-1.10-5.i386.rpm | Q3Demo Test Linux RPM
+1999 Nov 15 | [q3DemoTEST.exe](bin/q3DemoTEST.exe) | Q3Demo Test v1.09 Win32
+1999 Nov 18 | q3DemoTEST.bin | Q3Demo Test v1.10 Mac
+1999 Nov 20 | q3demoTEST-1.10-5.i386.tar.gz | Q3Demo Test v1.10 Linux
+1999 Nov 20 | q3demoTEST-1.10-5.i386.rpm | Q3Demo Test v1.10 Linux RPM
 1999 Dec 02 | n/a | Retail Release
 1999 Dec 03 | [Q3ADemo.exe](bin/Q3ADemo.exe) | Q3Demo v1.11 Win32
 1999 Dec 05 | [linuxq3ded-1.11-i386.tar.gz](bin/linuxq3ded-1.11-i386.tar.gz) | Dedicated Server v1.11 Linux
@@ -103,7 +103,7 @@ Release Date | File | Description
 2001 Dec 20 | [q3pointrelease_131.exe](bin/q3pointrelease_131.exe) | Point Release 1.31 Win32
 2001 Dec 21 | [linuxq3apoint-1.31.x86.run](bin/linuxq3apoint-1.31.x86.run) | Point Release 1.31 Linux
 200? ??? ?? | [MacOSX-Q3A-1-31-BETA.sit](bin/MacOSX-Q3A-1-31-BETA.sit) | Point Release 1.31 Beta 1 Mac
-200? ??? ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 3 Mac
+200? ??? ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 2 Mac
 2002 Jan 06 | [MacOSX-Q3A-1-31-BETA3.sit](bin/MacOSX-Q3A-1-31-BETA3.sit) | Point Release 1.31 Beta 3 Mac
 2002 Jan 12 | [MacALL-Q3A-1-31-BETA4.sit](bin/MacALL-Q3A-1-31-BETA4.sit) | Point Release 1.31 Beta 4 Mac
 2002 Oct 07 | [q3pointrelease_132.exe](bin/q3pointrelease_132.exe) | Point Release 1.32 Win32

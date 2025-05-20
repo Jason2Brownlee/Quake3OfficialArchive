@@ -24,3 +24,10 @@ PR
 
 level editor (out of scope?)
 - https://www.gamers.org/pub/idgames2/idstuff/qeradiant/GtkRadiant/GtkRadiant-1_3/
+
+versions
+- https://discourse.ioquake.org/t/quake-3-changelog-version-history/375
+- https://www.quake3world.com/forum/viewtopic.php?t=10802
+
+gpl
+- https://github.com/id-Software/Quake-III-Arena

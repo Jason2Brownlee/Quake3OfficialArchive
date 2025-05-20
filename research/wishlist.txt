@@ -2,7 +2,6 @@
 
 # q3test
 q3test-1.03-glibc-6.i386.rpm
-q3test-1.03-glibc-6.i386.tar.gz
 MacQ3Test_1_03.bin
 MacQ3Test_1_03_update.bin
 q3test-linux-1.07-glibc-4.i386.tar.gz
@@ -10,6 +9,7 @@ MacQ3Test_1_08.bin
 q3test-1.08-glibc-2.i386.rpm
 
 # demos
+MacQ3DemoTEST.bin
 q3DemoTEST.bin
 q3demoTEST-1.10-5.i386.tar.gz
 q3demoTEST-1.10-5.i386.rpm
@@ -27,7 +27,6 @@ quake3-macosx-129f-2.dmg
 quake3-MacClassic-129f-BETA.sit
 linuxq3apoint-1.29g-beta.x86.run
 MacOSX-Q3A-1-31-BETA2.sit
-MacOSX-Q3A-1-31-BETA3.sit
 Quake3-1-32-test.dmg
 Q3DedicatedServer-132-Test.tar.gz
 Quake3-132-Test3-Update.sit
