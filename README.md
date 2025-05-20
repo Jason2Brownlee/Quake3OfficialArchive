@@ -37,8 +37,8 @@ Release Date | File | Description
 1999 Dec 02 | n/a | Retail Release
 1999 Dec 03 | [Q3ADemo.exe](bin/Q3ADemo.exe) | Q3Demo v1.11 Win32
 1999 Dec 05 | [linuxq3ded-1.11-i386.tar.gz](bin/linuxq3ded-1.11-i386.tar.gz) | Dedicated Server v1.11 Linux
+1999 Dec 13 | [linuxq3ademo-1.11-6.x86.gz.sh](bin/linuxq3ademo-1.11-6.x86.gz.sh) | Q3Demo v1.11 Linux
 1999 Dec 14 | [Q3ToolSetup.exe](bin/Q3ToolSetup.exe) | Game Tools Win32
-1999 Dec 15 | [linuxq3ademo-1.11-6.x86.gz.sh](bin/linuxq3ademo-1.11-6.x86.gz.sh) | Q3Demo v1.11 Linux
 1999 Dec 15 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
 1999 Dec 22 | [Q3ToolSetup_Dec221999.exe](bin/Q3ToolSetup_Dec221999.exe) | Game Tools Win32
 1999 Dec 29 | [Q3Ashader_manual.doc](bin/Q3Ashader_manual.doc) | Shader Manual
@@ -115,12 +115,12 @@ Release Date | File | Description
 2002 Oct 11 | Quake3-132-Test4-Update.sit | Point Release 1.32 Test 3 Mac
 2002 Oct 21 | [Q3A_TA_GameSource_132.exe](bin/Q3A_TA_GameSource_132.exe) | Game Source v1.32 Win32
 2002 Oct 21 | [linuxq3a-sdk-1.32.x86.run](bin/linuxq3a-sdk-1.32.x86.run) | Game Source v1.32 Linux
-2002 Oct 24 | [linuxq3apoint-1.32b.x86.run](bin/linuxq3apoint-1.32b.x86.run) | Point Release 1.32b Beta 1 Linux
 2002 Nov 04 | [Quake3-132.pkg.sit](bin/Quake3-132.pkg.sit) | Point Release 1.32 Mac OSX
+2002 Nov 16 | [linuxq3apoint-1.32b.x86.run](bin/linuxq3apoint-1.32b.x86.run) | Point Release 1.32b Beta 1 Linux
 2003 Jun 15 | [quake3-132-jaguar.pkg.sit](bin/quake3-132-jaguar.pkg.sit) | Point Release 1.32 Mac OSX
 2003 Jun 19 | [Quake3-132-AltivecTest2.pkg.sit](bin/Quake3-132-AltivecTest2.pkg.sit) | Point Release 1.32 Mac G4
 2003 Sep 09 | [linuxq3apoint-1.32b-2.x86.run](bin/linuxq3apoint-1.32b-2.x86.run) | Point Release 1.32b Beta 2 Linux
-2003 Oct 31 | [linuxq3apoint-1.32b-3.x86.run](bin/linuxq3apoint-1.32b-3.x86.run) | Point Release 1.32b Beta 3 Linux
+2003 Oct 02 | [linuxq3apoint-1.32b-3.x86.run](bin/linuxq3apoint-1.32b-3.x86.run) | Point Release 1.32b Beta 3 Linux
 2005 Aug 19 | [quake3-1.32b-source.zip](bin/quake3-1.32b-source.zip) | Engine Source 1.32b GPL
 2006 May 08 | [quake3-1.32c.zip](bin/quake3-1.32c.zip) | Point Release 1.32c Win32
 
