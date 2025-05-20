@@ -94,7 +94,7 @@ Release Date | File | Description
 200? ??? ?? | [MacOSX-Q3A-1-31-BETA.sit](bin/MacOSX-Q3A-1-31-BETA.sit) | Point Release 1.31 Beta 1 Mac
 200? ??? ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 3 Mac
 2002 Jan 06 | MacOSX-Q3A-1-31-BETA3.sit | Point Release 1.31 Beta 3 Mac
-2002 Jan 12 | MacALL-Q3A-1-31-BETA4.sit | Point Release 1.31 Beta 4  Mac
+2002 Jan 12 | [MacALL-Q3A-1-31-BETA4.sit](bin/MacALL-Q3A-1-31-BETA4.sit) | Point Release 1.31 Beta 4  Mac
 2002 Oct 07 | [q3pointrelease_132.exe](bin/q3pointrelease_132.exe) | Point Release 1.32 Win32
 2002 Oct 07 | [linuxq3apoint-1.32.x86.run](bin/linuxq3apoint-1.32.x86.run) | Point Release 1.32 Linux
 2002 Oct 09 | Quake3-1-32-test.dmg | Point Release 1.32 Mac
