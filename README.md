@@ -95,6 +95,7 @@ Release Date | File | Description
 200? ??? ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 3 Mac
 2002 Jan 06 | MacOSX-Q3A-1-31-BETA3.sit | Point Release 1.31 Beta 3 Mac
 2002 Jan 12 | [MacALL-Q3A-1-31-BETA4.sit](bin/MacALL-Q3A-1-31-BETA4.sit) | Point Release 1.31 Beta 4  Mac
+2002 Jan 12 | Quake3-Q3F-testfix.sit | ?
 2002 Oct 07 | [q3pointrelease_132.exe](bin/q3pointrelease_132.exe) | Point Release 1.32 Win32
 2002 Oct 07 | [linuxq3apoint-1.32.x86.run](bin/linuxq3apoint-1.32.x86.run) | Point Release 1.32 Linux
 2002 Oct 09 | Quake3-1-32-test.dmg | Point Release 1.32 Mac
@@ -105,13 +106,12 @@ Release Date | File | Description
 2002 Oct 24 | [Q3A_TA_GameSource_132.exe](bin/Q3A_TA_GameSource_132.exe) | Game Source v1.32 Win32
 2002 Oct 24 | [linuxq3a-sdk-1.32.x86.run](bin/linuxq3a-sdk-1.32.x86.run) | Game Source v1.32 Linux
 2002 Nov 04 | [Quake3-132.pkg.sit](bin/Quake3-132.pkg.sit) | Point Release 1.32 Mac OSX
+2003 Jun 15 | [quake3-132-jaguar.pkg.sit](bin/quake3-132-jaguar.pkg.sit) | Point Release 1.32 Mac OSX
 2003 Jun 19 | [Quake3-132-AltivecTest2.pkg.sit](bin/Quake3-132-AltivecTest2.pkg.sit) | Point Release 1.32 Mac G4
 2003 Sep 09 | [linuxq3apoint-1.32b-2.x86.run](bin/linuxq3apoint-1.32b-2.x86.run) | Point Release 1.32b Beta 2 Linux
 2003 ??? ?? | [linuxq3apoint-1.32b-3.x86.run](bin/linuxq3apoint-1.32b-3.x86.run) | Point Release 1.32b Beta 3 Linux
 2005 Aug 19 | [quake3-1.32b-source.zip](bin/quake3-1.32b-source.zip) | Engine Source 1.32b GPL
 2006 May 08 | [quake3-1.32c.zip](bin/quake3-1.32c.zip) | Point Release 1.32c Win32
-
-
 
 * **No Link**: indicates that we could not locate a copy of the file yet.
 * **No Date**: indicates that we could not determine the date of release yet.
