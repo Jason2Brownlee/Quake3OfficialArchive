@@ -89,16 +89,20 @@ Release Date | File | Description
 2001 Jan 04 | [roq.zip](bin/roq.zip) | RoQ encoder
 2001 Jan 08 | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 2001 Jan 15 | [Q3Tools_EditorSupport.exe](bin/Q3Tools_EditorSupport.exe) | Tool Support
+2001 Mar 12 | [QCon2KModels.ZIP](bin/QCon2KModels.ZIP) | Quake Con Models
 2001 Jun 06 | [linuxq3apoint-console-1.29f-beta1.x86.run](bin/linuxq3apoint-console-1.29f-beta1.x86.run) | Point Release 1.29f Linux Dedicated
 2001 Jun 18 | [linuxq3apoint-1.29f-beta1.x86.run](bin/linuxq3apoint-1.29f-beta1.x86.run) | Point Release 1.29f Linux
 2001 Jun 18 | [q3pointrelease_129f_beta.exe](bin/q3pointrelease_129f_beta.exe) | Point Release 1.29f Win32
 2001 Jun 18 | [quake3-OSX-129f-BETA.dmg](bin/quake3-OSX-129f-BETA.dmg) | Point Release 1.29f Beta 1 Mac
+2001 Jun 19 | [rtf_q3ta_teams.zip](bin/rtf_q3ta_teams.zip) | Q3TA Manual RTF
+2001 Jun 19 | [html_q3ta_teams.zip](bin/html_q3ta_teams.zip) | Q3TA Manual HTML
 2001 Jun 20 | [quake3-macosx-129f-2.dmg](bin/quake3-macosx-129f-2.dmg) | Point Release 1.29f Beta 2 Mac
 2001 Jun 21 | quake3-MacClassic-129f-BETA.sit | Point Release 1.29f Mac
 2001 Jul 27 | [q3pointrelease_129g_beta.exe](bin/q3pointrelease_129g_beta.exe) | Point Release 1.29g Win32
 2001 Jul 27 | [linuxq3apoint-1.29g-beta.x86.run](bin/linuxq3apoint-1.29g-beta.x86.run) | Point Release 1.29g Linux
 2001 Jul 31 | [q3pointrelease_129h_beta.exe](bin/q3pointrelease_129h_beta.exe) | Point Release 1.29h Win32
 2001 Jul 31 | [linuxq3apoint-1.29h-beta.x86.run](bin/linuxq3apoint-1.29h-beta.x86.run) | Point Release 1.29h Linux
+2001 Aug 14 | [abuse_vs_id_quakecon01.zip](bin/abuse_vs_id_quakecon01.zip) | Quake Con Demo
 2001 Aug 01 | [Q3A_TA_GameSource_129h.exe](bin/Q3A_TA_GameSource_129h.exe) | Game Source v1.29h Win32
 2001 Sep 27 | [linuxq3apoint-1.30.x86.run](bin/linuxq3apoint-1.30.x86.run) | Point Release 1.30 Linux
 2001 Sep 27 | [q3pointrelease_130.exe](bin/q3pointrelease_130.exe) | Point Release 1.30 Win32
