@@ -74,6 +74,7 @@ Release Date | File | Description
 2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
 2000 May 07 | [Q3AGameSource_117.exe](bin/Q3AGameSource_117.exe) | Game Source v1.17 Win32
 2000 Jul 20 | [server.txt](bin/server.txt) | Server Commands
+2000 Aug 11 | [q3a-intro.mp3](bin/q3a-intro.mp3)<br>[q3a-fla-01.mp3](bin/q3a-fla-01.mp3)<br>[q3a-fla-02.mp3](bin/q3a-fla-02.mp3)<br>[q3a-fla-03.mp3](bin/q3a-fla-03.mp3)<br>[q3a-fla-04.mp3](bin/q3a-fla-04.mp3)<br>[q3a-fla-05.mp3](bin/q3a-fla-05.mp3)<br>[q3a-fla-06.mp3](bin/q3a-fla-06.mp3) | Q3A Music
 2000 Sep 22 | [Q3PointRelease_125.exe](bin/Q3PointRelease_125.exe) | Point Release v1.25 Win32
 2000 Oct 13 | [Q3PointRelease_BETA_125y.exe](bin/Q3PointRelease_BETA_125y.exe) | Point Release v1.25y Win32
 2000 Nov 22 | [TeamArenaDemo.exe](https://www.gamers.org/pub/idgames/idstuff/teamarena/TeamArenaDemo.exe) | Q3TA Demo Win32
