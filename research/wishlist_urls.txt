@@ -34,7 +34,6 @@ http://www.q3arena.pl/download/q3test/linux/q3test-1.03-glibc-6.i386.rpm
 http://www.quakecity.net/files.asp?dir=quake3&file;=q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
 http://www.quakecity.net/files.asp?dir=quake3&file=q3test-1.03-glibc-6.i386.rpm
 
-
 # MacQ3Test_1_03_update.bin
 ftp://ftp.barrysworld.com/Quake3/test/mac/MacQ3Test_1_03_update.bin
 ftp://ftp.barrysworld.com/Quake3/test/mac/MacQ3Test_1_03_update.bin%3C/a%3E%3C/p%3E

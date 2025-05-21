@@ -30,7 +30,6 @@ Quake3-132-Test3-Update.sit
 Quake3-132-Test4-Update.sit
 
 
-
 # what is this? a mod?
 # ---------------------------
 

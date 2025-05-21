@@ -42,10 +42,10 @@ Release Date | File | Description
 1999 Dec 15 | [MacQuake3Demo.bin](bin/MacQuake3Demo.bin) | Q3Demo v1.11 Mac
 1999 Dec 22 | [Q3ToolSetup_Dec221999.exe](bin/Q3ToolSetup_Dec221999.exe) | Game Tools Win32
 1999 Dec 29 | [Q3Ashader_manual.doc](bin/Q3Ashader_manual.doc) | Shader Manual
-2000 Jan 13 | [q3pointbeta.exe](bin/q3pointbeta.exe) | Point Release Beta 1 Win32
-2000 Jan 13 | [q3pointbeta2.exe](bin/q3pointbeta2.exe) | Point Release Beta 2 Win32
+2000 Jan 07 | [q3pointbeta.exe](bin/q3pointbeta.exe) | Point Release Beta 1 Win32
+2000 Jan 11 | [q3pointbeta2.exe](bin/q3pointbeta2.exe) | Point Release Beta 2 Win32
+2000 Jan 12 | [MacPointBeta.bin](bin/MacPointBeta.bin) | Point Release Mac
 2000 Jan 13 | [Q3PointRelease_Jan1300.exe](bin/Q3PointRelease_Jan1300.exe) | Point Release Win32
-2000 Jan 13 | [MacPointBeta.bin](bin/MacPointBeta.bin) | Point Release Mac
 2000 Jan 13 | [Q3AGameSource.exe](bin/Q3AGameSource.exe) | Game Source Win32
 2000 Jan 17 | [Q3ABotEdit.zip](bin/Q3ABotEdit.zip) | Bot editing manual
 2000 Feb 16 | [q3rmanpc.zip](bin/q3rmanpc.zip)<br>[q3rmanhtml.zip](bin/q3rmanhtml.zip) | Q3Radiant Manual HTML and DOC
@@ -68,6 +68,7 @@ Release Date | File | Description
 2000 Mar 14 | [MacPointRelease_116n.bin](bin/MacPointRelease_116n.bin) | Point Release v1.16n Mac
 2000 Mar 16 | [Q3AGameSource_116n.exe](bin/Q3AGameSource_116n.exe) | Game Source v1.16n
 2000 Mar 17 | [Q3ToolSetup_Mar172000.exe](bin/Q3ToolSetup_Mar172000.exe) | Game Tools
+2000 Mar 27 | [q3a_intro.zip](bin/q3a_intro.zip) | Q3 Intro Movie
 2000 May 03 | [q3pointrelease_117.exe](bin/q3pointrelease_117.exe) | Point Release v1.17 Win32
 2000 May 03 | [linuxq3apoint-1.17.x86.run](bin/linuxq3apoint-1.17.x86.run) | Point Release v1.17 Linux
 2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
