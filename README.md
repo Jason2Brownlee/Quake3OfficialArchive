@@ -15,8 +15,8 @@ Release Date | File | Description
 1999 Apr 24 | [MacQ3Test_1_03.bin](bin/MacQ3Test_1_03.bin) | Q3Test v1.03 Mac
 1999 Apr 24 | MacQ3Test_1_03_update.bin | Q3Test v1.03  Mac Update
 1999 Apr 24 | [q3test_server_win32_x86.zip](bin/q3test_server_win32_x86.zip) | Q3Test v1.03 Win32 Server
-1999 Apr 29 | [q3test_1_03_win32_server.zip](bin/q3test_1_03_win32_server.zip) | Q3Test v1.03 Win32 Server Update
-1999 Apr 29 | [q3test_1_03_win32_server_update.zip](bin/q3test_1_03_win32_server_update.zip) | Q3Test v1.03 Win32 Server Update
+1999 Apr 24 | [q3test_1_03_win32_server.zip](bin/q3test_1_03_win32_server.zip) | Q3Test v1.03 Win32 Server Update
+1999 Apr 24 | [q3test_1_03_win32_server_update.zip](bin/q3test_1_03_win32_server_update.zip) | Q3Test v1.03 Win32 Server Update
 1999 May 10 | [MacQ3Test_1_05.bin](bin/MacQ3Test_1_05.bin) | Q3Test v1.05 Mac
 1999 May 10 | [q3test-1.05-glibc-9.i386.rpm](bin/q3test-1.05-glibc-9.i386.rpm) | Q3Test v1.05 Linux RPM
 1999 May 10 | [q3test-1.05-glibc-9.i386.tar.gz](bin/q3test-1.05-glibc-9.i386.tar.gz) | Q3Test v1.05 Linux
@@ -29,7 +29,7 @@ Release Date | File | Description
 1999 Aug 03 | MacQ3Test_1_08.bin | Q3Test v1.08 Mac
 1999 Aug 03 | q3test-1.08-glibc-2.i386.rpm | Q3Test v1.08 Linux RPM
 1999 Aug 03 | [q3test-1.08-glibc-2.i386.tar.gz](bin/q3test-1.08-glibc-2.i386.tar.gz) | Q3Test v1.08 Linux
-1999 Aug 04 | [q3test_win32_1_08.exe](bin/q3test_win32_1_08.exe) | Q3Test v1.08 Win32
+1999 Aug 03 | [q3test_win32_1_08.exe](bin/q3test_win32_1_08.exe) | Q3Test v1.08 Win32
 1999 Nov 15 | [q3DemoTEST.exe](bin/q3DemoTEST.exe) | Q3Demo Test v1.09 Win32
 1999 Nov 18 | q3DemoTEST.bin | Q3Demo Test v1.10 Mac
 1999 Nov 20 | q3demoTEST-1.10-5.i386.tar.gz | Q3Demo Test v1.10 Linux
@@ -90,11 +90,11 @@ Release Date | File | Description
 2001 Jan 04 | [roq.zip](bin/roq.zip) | RoQ encoder
 2001 Jan 15 | [Q3Tools_EditorSupport.exe](bin/Q3Tools_EditorSupport.exe) | Tool Support
 2001 Jun 06 | [linuxq3apoint-console-1.29f-beta1.x86.run](bin/linuxq3apoint-console-1.29f-beta1.x86.run) | Point Release 1.29f Linux Dedicated
-2001 Jul 18 | [linuxq3apoint-1.29f-beta1.x86.run](bin/linuxq3apoint-1.29f-beta1.x86.run) | Point Release 1.29f Linux
-2001 Jul 18 | [q3pointrelease_129f_beta.exe](bin/q3pointrelease_129f_beta.exe) | Point Release 1.29f Win32
-2001 Jul 18 | [quake3-OSX-129f-BETA.dmg](bin/quake3-OSX-129f-BETA.dmg) | Point Release 1.29f Beta 1 Mac
-2001 Jul 20 | [quake3-macosx-129f-2.dmg](bin/quake3-macosx-129f-2.dmg) | Point Release 1.29f Beta 2 Mac
-2001 Jul 21 | quake3-MacClassic-129f-BETA.sit | Point Release 1.29f Mac
+2001 Jun 18 | [linuxq3apoint-1.29f-beta1.x86.run](bin/linuxq3apoint-1.29f-beta1.x86.run) | Point Release 1.29f Linux
+2001 Jun 18 | [q3pointrelease_129f_beta.exe](bin/q3pointrelease_129f_beta.exe) | Point Release 1.29f Win32
+2001 Jun 18 | [quake3-OSX-129f-BETA.dmg](bin/quake3-OSX-129f-BETA.dmg) | Point Release 1.29f Beta 1 Mac
+2001 Jun 20 | [quake3-macosx-129f-2.dmg](bin/quake3-macosx-129f-2.dmg) | Point Release 1.29f Beta 2 Mac
+2001 Jun 21 | quake3-MacClassic-129f-BETA.sit | Point Release 1.29f Mac
 2001 Jul 27 | [q3pointrelease_129g_beta.exe](bin/q3pointrelease_129g_beta.exe) | Point Release 1.29g Win32
 2001 Jul 27 | [linuxq3apoint-1.29g-beta.x86.run](bin/linuxq3apoint-1.29g-beta.x86.run) | Point Release 1.29g Linux
 2001 Jul 31 | [q3pointrelease_129h_beta.exe](bin/q3pointrelease_129h_beta.exe) | Point Release 1.29h Win32
@@ -106,8 +106,8 @@ Release Date | File | Description
 2001 Oct 01 | [MacQuake3-1.30-OSX-b1.bin](bin/macquake3-1.30-osx-b1.bin) | Point Release 1.30 Mac
 2001 Dec 20 | [q3pointrelease_131.exe](bin/q3pointrelease_131.exe) | Point Release 1.31 Win32
 2001 Dec 21 | [linuxq3apoint-1.31.x86.run](bin/linuxq3apoint-1.31.x86.run) | Point Release 1.31 Linux
-200? ??? ?? | [MacOSX-Q3A-1-31-BETA.sit](bin/MacOSX-Q3A-1-31-BETA.sit) | Point Release 1.31 Beta 1 Mac
-200? ??? ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 2 Mac
+2002 Jan ?? | [MacOSX-Q3A-1-31-BETA.sit](bin/MacOSX-Q3A-1-31-BETA.sit) | Point Release 1.31 Beta 1 Mac
+2002 Jan ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 2 Mac
 2002 Jan 06 | [MacOSX-Q3A-1-31-BETA3.sit](bin/MacOSX-Q3A-1-31-BETA3.sit) | Point Release 1.31 Beta 3 Mac
 2002 Jan 12 | [MacALL-Q3A-1-31-BETA4.sit](bin/MacALL-Q3A-1-31-BETA4.sit) | Point Release 1.31 Beta 4 Mac
 2002 Jan 12 | Quake3-Q3F-testfix.sit | ? Mac
