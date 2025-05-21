@@ -36,19 +36,11 @@ Release Date | File | Description
 2000 Feb 16 | [q3rmanpc.zip](bin/q3rmanpc.zip)<br>[q3rmanhtml.zip](bin/q3rmanhtml.zip) | Q3Radiant Manual HTML and DOC
 2000 Feb 17 | [q3rmanpdf.zip](bin/q3rmanpdf.zip) | Q3Radiant Manual PDF
 2000 Feb 17 | [Q3PointRelease_116h_Beta.exe](bin/Q3PointRelease_116h_Beta.exe)<br>[linuxq3apoint-1.16h-beta1.x86.gz.sh](bin/linuxq3apoint-1.16h-beta1.x86.gz.sh)<br>[MacPointRelease_116h_Beta.bin](bin/MacPointRelease_116h_Beta.bin) | Point Release v1.16h
-2000 Feb 19 | [quake3_116i_beta.zip](bin/quake3_116i_beta.zip) | Point Release v1.16i Win32
-2000 Feb 19 | linuxquake3-1.16h-to-1.16i-1.i386.tar.gz | Point Release v1.16i Linux
-2000 Feb 19 | MacQuake3_116i_Beta.sea | Point Release v1.16i Mac
-2000 Feb 22 | [linuxquake3-1.16h-to-1.16j-1.i386.tar.gz](bin/linuxquake3-1.16h-to-1.16j-1.i386.tar.gz) | Point Release v1.16j Linux
-2000 Feb 22 | [Quake3_116j_Beta.zip](bin/Quake3_116j_Beta.zip) | Point Release v1.16j Win32
-2000 Feb 22 | [MacQuake3_116j_Beta.sea](bin/MacQuake3_116j_Beta.sea) | Point Release v1.16j Mac
-2000 Mar 05 | [Q3PointRelease_116m_Beta.exe](bin/Q3PointRelease_116m_Beta.exe) | Point Release v1.16m Win32
-2000 Mar 05 | [linuxq3apoint-1.16m-beta3.x86.gz.sh](bin/linuxq3apoint-1.16m-beta3.x86.gz.sh) | Point Release v1.16m Linux
-2000 Mar 05 | [MacPointRelease_116m_Beta.bin](MacPointRelease_116m_Beta.bin) | Point Release v1.16m Mac
-2000 Mar 14 | [Maxfiles.zip](bin/Maxfiles.zip) | 3DS Max Player Files
-2000 Mar 14 | [Q3PointRelease_116n.exe](bin/Q3PointRelease_116n.exe) | Point Release v1.16n Win32
-2000 Mar 14 | [linuxq3apoint-1.16n.x86.run](bin/linuxq3apoint-1.16n.x86.run) | Point Release v1.16n Linux
-2000 Mar 14 | [MacPointRelease_116n.bin](bin/MacPointRelease_116n.bin) | Point Release v1.16n Mac
+2000 Feb 19 | [quake3_116i_beta.zip](bin/quake3_116i_beta.zip)<br>linuxquake3-1.16h-to-1.16i-1.i386.tar.gz<br>MacQuake3_116i_Beta.sea | Point Release v1.16i
+2000 Feb 22 | [linuxquake3-1.16h-to-1.16j-1.i386.tar.gz](bin/linuxquake3-1.16h-to-1.16j-1.i386.tar.gz)<br>[Quake3_116j_Beta.zip](bin/Quake3_116j_Beta.zip)<br>[MacQuake3_116j_Beta.sea](bin/MacQuake3_116j_Beta.sea) | Point Release v1.16j
+2000 Mar 06 | [Q3PointRelease_116m_Beta.exe](bin/Q3PointRelease_116m_Beta.exe)<br>[linuxq3apoint-1.16m-beta3.x86.gz.sh](bin/linuxq3apoint-1.16m-beta3.x86.gz.sh)<br>[MacPointRelease_116m_Beta.bin](MacPointRelease_116m_Beta.bin) | Point Release v1.16m
+2000 Mar 15 | [Maxfiles.zip](bin/Maxfiles.zip) | 3DS Max Player Files
+2000 Mar 15 | [Q3PointRelease_116n.exe](bin/Q3PointRelease_116n.exe)<br>[linuxq3apoint-1.16n.x86.run](bin/linuxq3apoint-1.16n.x86.run)<br>[MacPointRelease_116n.bin](bin/MacPointRelease_116n.bin) | Point Release v1.16n
 2000 Mar 16 | [Q3AGameSource_116n.exe](bin/Q3AGameSource_116n.exe) | Game Source v1.16n
 2000 Mar 17 | [Q3ToolSetup_Mar172000.exe](bin/Q3ToolSetup_Mar172000.exe) | Game Tools
 2000 Mar 27 | [q3a_intro.zip](bin/q3a_intro.zip) | Q3 Intro Movie
