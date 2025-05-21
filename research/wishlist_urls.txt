@@ -33,14 +33,7 @@ http://www.planetquake.com/dl/dl.asp?quake3/q3test-1.03-glibc-6.i386.rpm
 http://www.q3arena.pl/download/q3test/linux/q3test-1.03-glibc-6.i386.rpm
 http://www.quakecity.net/files.asp?dir=quake3&file;=q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
 http://www.quakecity.net/files.asp?dir=quake3&file=q3test-1.03-glibc-6.i386.rpm
-http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.barrysworld.com/Quake3/test/linux/q3test-1.03-glibc-6.i386.rpm
-http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm
-http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.stomped.com/pub/redwood/q3a/linux/q3test-1.03-glibc-6.i386.rpm
-http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.warzone.com/pub/quake3/q3test-1.03-glibc-6.i386.rpm
-http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://qftp1.heat.net/pub/linux/q3test-1.03-glibc-6.i386.rpm
-http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://tux.telefragged.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm
-http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=http://www.clanworld.org/files/quake3arena/game/linux/q3test-1.03-glibc-6.i386.rpm
-http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=http://www.quakecity.net/files.asp?dir=quake3&file=q3test-1.03-glibc-6.i386.rpm
+
 
 # MacQ3Test_1_03_update.bin
 ftp://ftp.barrysworld.com/Quake3/test/mac/MacQ3Test_1_03_update.bin
@@ -81,7 +74,6 @@ http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3test-linux-1.07-glibc-4.i
 http://was.weiss.ich.wo/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.bluesnews.com/files/idstuff/quake3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.clanworld.org/files/quake3arena/game/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
-http://www.fileplanet.com/redir.asp?file=14687&archive=22260&url=http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.primorye.ru/quake/files/q3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.quakecity.net/files.asp?dir=QUAKE3&file;=Q3TEST-LINUX-1.07-GLIBC-4.I386.TAR.GZ%3C/a%3E%3C/li%3E
 http://www.quakecity.net/files.asp?dir=QUAKE3&file=Q3TEST-LINUX-1.07-GLIBC-4.I386.TAR.GZ
@@ -138,7 +130,6 @@ http://mirrors.telepac.pt/pub/3dfxmania/games/q3test-1.08-glibc-2.i386.rpm
 http://src.doc.ic.ac.uk/packages/idgames/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 http://src.doc.ic.ac.uk/packages/quake/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
-http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl3&d_url=ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 
 # q3DemoTEST.bin
 ftp://ftp.3dgamers.com/pub/3daction/00archives/quake3arena/releases/MacQ3DemoTEST.bin
@@ -149,7 +140,7 @@ ftp://ftp2.3dgamers.com/pub/3daction/00archives/quake3arena/releases/MacQ3DemoTE
 ftp://ftp2.stomped.com/pub/stomped/quake3/mac/q3DemoTEST.bin
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/mac/old/q3DemoTEST.bin
 http://demo.quake3arena.com/QUAKE/mac/q3DemoTEST.bin
-http://www.meccaworld.com/templates/download.asp?Name=Quake_III:_Arena&FilePath=ftp://ftp.meccaworld.com/pub/downloads/quake_3_arena/q3demotest.bin
+http://demo.quake3arena.com/QUAKE/mac/q3demoTEST.bin
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/mac/q3DemoTEST.bin
 http://www.quakeiii.com/downloads/q3DemoTEST.bin
 
@@ -174,20 +165,11 @@ ftp://ftp.ngi.it/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 ftp://ftp.white-mouse.com/action/quake3/q3demoTEST-1.10-5.i386.rpm
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3demoTEST-1.10-5.i386.rpm
 http://demo.quake3arena.com/quake/linux/q3demotest-1.10-5.i386.rpm
+http://demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
 http://fileplanet.gil.com.au/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://fileplanet2.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://fileplanet1.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=22269&url=http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=22611&url=http://demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=23067&url=ftp://fileplanet.gil.com.au/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=23067&url=http://fileplanet.gil.com.au/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=23112&url=ftp://ftp.ngi.it/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=23205&url=ftp://ftp.liquidextremes.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=23270&url=ftp://files.gameloft.com/files/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=26372&url=ftp://ftp.white-mouse.com/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=26479&url=http://fileplanet1.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.fileplanet.com/redir.asp?file=32025&archive=26480&url=http://fileplanet2.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
 
 # linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
@@ -228,6 +210,7 @@ ftp://ftp.idsoftware.com/idstuff/quake3/mac/MacOSX-Q3A-1-31-BETA2.sit
 http://www.quakeshit.com/files/MacOSX-Q3A-1-31-BETA2.sit
 
 # Quake3-1-32-test.dmg
+ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-1-32-test.dmg
 http://homepage.mac.com/clublights/Quake3-1-32-test.dmg
 http://www.3dgamers.com/dl/games/quake3arena/quake3-1-32-test.dmg.html
 
@@ -244,7 +227,7 @@ ftp://www.idsoftware.com/idstuff/quake3/mac/Quake3-132-Test3-Update.sit
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-132-Test3-Update.sit
 
 # Quake3-132-Test4-Update.sit
-# ???
+ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-132-Test4-Update.sit
 
 # Quake3-Q3F-testfix.sit
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-Q3F-testfix.sit

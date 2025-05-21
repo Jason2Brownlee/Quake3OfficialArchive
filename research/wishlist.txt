@@ -34,5 +34,3 @@ Quake3-132-Test4-Update.sit
 
 # a mod?
 Quake3-Q3F-testfix.sit
-
-
