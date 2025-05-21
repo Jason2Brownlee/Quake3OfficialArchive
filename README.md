@@ -66,6 +66,7 @@ Release Date | File | Description
 2000 Mar 14 | [Q3PointRelease_116n.exe](bin/Q3PointRelease_116n.exe) | Point Release v1.16n Win32
 2000 Mar 14 | [linuxq3apoint-1.16n.x86.run](bin/linuxq3apoint-1.16n.x86.run) | Point Release v1.16n Linux
 2000 Mar 14 | [MacPointRelease_116n.bin](bin/MacPointRelease_116n.bin) | Point Release v1.16n Mac
+2000 Mar 16 | [Q3AGameSource_116n.exe](bin/Q3AGameSource_116n.exe) Game Source v1.16n
 2000 Mar 17 | [Q3ToolSetup_Mar172000.exe](bin/Q3ToolSetup_Mar172000.exe) | Game Tools
 2000 May 03 | [q3pointrelease_117.exe](bin/q3pointrelease_117.exe) | Point Release v1.17 Win32
 2000 May 03 | [linuxq3apoint-1.17.x86.run](bin/linuxq3apoint-1.17.x86.run) | Point Release v1.17 Linux
