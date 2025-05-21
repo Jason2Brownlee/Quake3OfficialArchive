@@ -50,6 +50,8 @@ Release Date | File | Description
 2000 Jan 17 | [Q3ABotEdit.zip](bin/Q3ABotEdit.zip) | Bot editing manual
 2000 Feb 16 | [q3rmanpc.zip](bin/q3rmanpc.zip)<br>[q3rmanhtml.zip](bin/q3rmanhtml.zip) | Q3Radiant Manual HTML and DOC
 2000 Feb 17 | [q3rmanpdf.zip](bin/q3rmanpdf.zip) | Q3Radiant Manual PDF
+2000 Feb 17 | [linuxq3apoint-1.16h-beta1.x86.gz.sh](bin/linuxq3apoint-1.16h-beta1.x86.gz.sh) | Point Release v1.16h Linux
+2000 Feb 17 | [MacPointRelease_116h_Beta.bin](bin/MacPointRelease_116h_Beta.bin) | Point Release v1.16h Mac
 2000 Feb 19 | [quake3_116i_beta.zip](bin/quake3_116i_beta.zip) | Point Release v1.16i Win32
 2000 Feb 19 | linuxquake3-1.16h-to-1.16i-1.i386.tar.gz | Point Release v1.16i Linux
 2000 Feb 19 | MacQuake3_116i_Beta.sea | Point Release v1.16i Mac
@@ -58,7 +60,6 @@ Release Date | File | Description
 2000 Feb 22 | [MacQuake3_116j_Beta.sea](bin/MacQuake3_116j_Beta.sea) | Point Release v1.16j Mac
 2000 Mar 01 | [Q3PointRelease_116h_Beta.exe](bin/Q3PointRelease_116h_Beta.exe) | Point Release v1.16h Win32
 2000 Mar 05 | [MacPointRelease_116h_Beta](bin/MacPointRelease_116h_Beta) | Point Release v1.16h Mac
-2000 Mar 05 | [linuxq3apoint-1.16h-beta1.x86.gz.sh](bin/linuxq3apoint-1.16h-beta1.x86.gz.sh) | Point Release v1.16h Linux
 2000 Mar 05 | [Q3PointRelease_116m_Beta.exe](bin/Q3PointRelease_116m_Beta.exe) | Point Release v1.16m Win32
 2000 Mar 05 | [linuxq3apoint-1.16m-beta3.x86.gz.sh](bin/linuxq3apoint-1.16m-beta3.x86.gz.sh) | Point Release v1.16m Linux
 2000 Mar 05 | [MacPointRelease_116m_Beta.bin](MacPointRelease_116m_Beta.bin) | Point Release v1.16m Mac
