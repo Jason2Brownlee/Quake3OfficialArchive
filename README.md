@@ -67,14 +67,11 @@ Release Date | File | Description
 2001 Jun 19 | [rtf_q3ta_teams.zip](bin/rtf_q3ta_teams.zip)<br>[html_q3ta_teams.zip](bin/html_q3ta_teams.zip) | Q3TA Manual RTF and HTML
 2001 Jun 20 | [quake3-macosx-129f-2.dmg](bin/quake3-macosx-129f-2.dmg) | Point Release 1.29f Beta 2 Mac
 2001 Jun 21 | quake3-MacClassic-129f-BETA.sit | Point Release 1.29f Mac
-2001 Jul 27 | [q3pointrelease_129g_beta.exe](bin/q3pointrelease_129g_beta.exe) | Point Release 1.29g Win32
-2001 Jul 27 | [linuxq3apoint-1.29g-beta.x86.run](bin/linuxq3apoint-1.29g-beta.x86.run) | Point Release 1.29g Linux
-2001 Jul 31 | [q3pointrelease_129h_beta.exe](bin/q3pointrelease_129h_beta.exe) | Point Release 1.29h Win32
-2001 Jul 31 | [linuxq3apoint-1.29h-beta.x86.run](bin/linuxq3apoint-1.29h-beta.x86.run) | Point Release 1.29h Linux
+2001 Jul 27 | [q3pointrelease_129g_beta.exe](bin/q3pointrelease_129g_beta.exe)<br>[linuxq3apoint-1.29g-beta.x86.run](bin/linuxq3apoint-1.29g-beta.x86.run) | Point Release 1.29g
+2001 Jul 31 | [q3pointrelease_129h_beta.exe](bin/q3pointrelease_129h_beta.exe)<br>[linuxq3apoint-1.29h-beta.x86.run](bin/linuxq3apoint-1.29h-beta.x86.run) | Point Release 1.29h
 2001 Aug 14 | [abuse_vs_id_quakecon01.zip](bin/abuse_vs_id_quakecon01.zip) | Quake Con Demo
 2001 Aug 01 | [Q3A_TA_GameSource_129h.exe](bin/Q3A_TA_GameSource_129h.exe) | Game Source v1.29h Win32
-2001 Sep 27 | [linuxq3apoint-1.30.x86.run](bin/linuxq3apoint-1.30.x86.run) | Point Release 1.30 Linux
-2001 Sep 27 | [q3pointrelease_130.exe](bin/q3pointrelease_130.exe) | Point Release 1.30 Win32
+2001 Sep 27 | [q3pointrelease_130.exe](bin/q3pointrelease_130.exe)<br>[linuxq3apoint-1.30.x86.run](bin/linuxq3apoint-1.30.x86.run) | Point Release 1.30
 2001 Sep 28 | [MacQuake3-1.30.bin](bin/MacQuake3-1.30.bin) | Point Release 1.30 Mac
 2001 Oct 01 | [MacQuake3-1.30-OSX-b1.bin](bin/macquake3-1.30-osx-b1.bin) | Point Release 1.30 Mac
 2001 Dec 20 | [q3pointrelease_131.exe](bin/q3pointrelease_131.exe) | Point Release 1.31 Win32
