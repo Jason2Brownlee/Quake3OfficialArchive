@@ -241,7 +241,9 @@ ftp://ftp.idsoftware.com/idstuff/quake3/mac/Q3DedicatedServer-132-Test.tar.gz
 
 # Quake3-132-Test3-Update.sit
 ftp://www.idsoftware.com/idstuff/quake3/mac/Quake3-132-Test3-Update.sit
+ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-132-Test3-Update.sit
 
-
+# Quake3-132-Test4-Update.sit
+# ???
 
 
