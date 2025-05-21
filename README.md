@@ -44,9 +44,7 @@ Release Date | File | Description
 2000 Mar 16 | [Q3AGameSource_116n.exe](bin/Q3AGameSource_116n.exe) | Game Source v1.16n
 2000 Mar 17 | [Q3ToolSetup_Mar172000.exe](bin/Q3ToolSetup_Mar172000.exe) | Game Tools
 2000 Mar 27 | [q3a_intro.zip](bin/q3a_intro.zip) | Q3 Intro Movie
-2000 May 03 | [q3pointrelease_117.exe](bin/q3pointrelease_117.exe) | Point Release v1.17 Win32
-2000 May 03 | [linuxq3apoint-1.17.x86.run](bin/linuxq3apoint-1.17.x86.run) | Point Release v1.17 Linux
-2000 May 04 | [macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17 Mac
+2000 May 03 | [q3pointrelease_117.exe](bin/q3pointrelease_117.exe)<br>[linuxq3apoint-1.17.x86.run](bin/linuxq3apoint-1.17.x86.run)<br>[macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17
 2000 May 07 | [Q3AGameSource_117.exe](bin/Q3AGameSource_117.exe) | Game Source v1.17 Win32
 2000 Jul 20 | [server.txt](bin/server.txt) | Server Commands
 2000 Aug 11 | [q3a-intro.mp3](bin/q3a-intro.mp3)<br>[q3a-fla-01.mp3](bin/q3a-fla-01.mp3)<br>[q3a-fla-02.mp3](bin/q3a-fla-02.mp3)<br>[q3a-fla-03.mp3](bin/q3a-fla-03.mp3)<br>[q3a-fla-04.mp3](bin/q3a-fla-04.mp3)<br>[q3a-fla-05.mp3](bin/q3a-fla-05.mp3)<br>[q3a-fla-06.mp3](bin/q3a-fla-06.mp3) | Q3A Music
@@ -60,8 +58,7 @@ Release Date | File | Description
 2000 Dec 19 | [mac127beta.bin](bin/mac127beta.bin) | Point Release 1.27g Mac
 2000 Dec 21 | [Q3A_TA_GameSource_127.exe](bin/Q3A_TA_GameSource_127.exe) | Game Source v1.27 Win32
 2000 Dec 21 | [Q3A_ToolSource.exe](/bin/Q3A_ToolSource.exe) | Tool Source Win32
-2000 Dec 22 | [linuxq3ded-1.27g-beta1.tar.gz](bin/linuxq3ded-1.27g-beta1.tar.gz) | Point Release v1.27g Linux Dedicated
-2000 Dec 22 | [linuxq3a-1.27g-beta1.tar.gz](bin/linuxq3a-1.27g-beta1.tar.gz) | Point Release 1.27g Linux
+2000 Dec 22 | [linuxq3a-1.27g-beta1.tar.gz](bin/linuxq3a-1.27g-beta1.tar.gz)<br>[linuxq3ded-1.27g-beta1.tar.gz](bin/linuxq3ded-1.27g-beta1.tar.gz) | Point Release v1.27g Linux
 2001 Jan 04 | [roq.zip](bin/roq.zip) | RoQ encoder
 2001 Jan 08 | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 2001 Jan 15 | [Q3Tools_EditorSupport.exe](bin/Q3Tools_EditorSupport.exe) | Tool Support
