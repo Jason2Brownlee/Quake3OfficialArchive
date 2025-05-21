@@ -32,3 +32,6 @@ versions
 
 gpl
 - https://github.com/id-Software/Quake-III-Arena
+
+headlines
+- https://web.archive.org/web/20010424165544/http://www.3dgamers.com/news/game/quake3arena/

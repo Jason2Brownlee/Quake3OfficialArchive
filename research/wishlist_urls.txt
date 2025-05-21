@@ -214,5 +214,20 @@ http://www.quakeshit.com/files/macquake3_116i_beta.sea
 ftp://ftp.bluesnews.com/idstuff/quake3/mac/MacPointRelease_127.bin
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/MacPointRelease_127.bin
 
+# quake3-MacClassic-129f-BETA.sit
+ftp://ftp.bluesnews.com/idstuff/quake3/mac/quake3-MacClassic-129f-BETA.sit
+ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/mac/quake3-MacClassic-129f-BETA.sit
+ftp://ftp.idsoftware.com/idstuff/quake3/mac/quake3-MacClassic-129f-BETA.sit
+http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/mac/quake3-MacClassic-129f-BETA.sit
+http://www.quakeshit.com/files/quake3-MacClassic-129f-BETA.sit
+https://ds-servers.com/gf/quake3-macclassic-129f-beta-sit.html
+https://www.quake3stuff.com/downstats.asp?dlurl=/files/patches/mac/quake3-MacClassic-129f-BETA.sit
+
+
+
+
+
+
+
 
 

@@ -92,7 +92,7 @@ Release Date | File | Description
 2001 Jul 20 | [quake3-macosx-129f-2.dmg](bin/quake3-macosx-129f-2.dmg) | Point Release 1.29f Beta 2 Mac
 2001 Jul 21 | quake3-MacClassic-129f-BETA.sit | Point Release 1.29f Mac
 2001 Jul 27 | [q3pointrelease_129g_beta.exe](bin/q3pointrelease_129g_beta.exe) | Point Release 1.29g Win32
-2001 Jul 27 | linuxq3apoint-1.29g-beta.x86.run| Point Release 1.29g Linux
+2001 Jul 27 | [linuxq3apoint-1.29g-beta.x86.run](bin/linuxq3apoint-1.29g-beta.x86.run) | Point Release 1.29g Linux
 2001 Jul 31 | [q3pointrelease_129h_beta.exe](bin/q3pointrelease_129h_beta.exe) | Point Release 1.29h Win32
 2001 Jul 31 | [linuxq3apoint-1.29h-beta.x86.run](bin/linuxq3apoint-1.29h-beta.x86.run) | Point Release 1.29h Linux
 2001 Aug 01 | [Q3A_TA_GameSource_129h.exe](bin/Q3A_TA_GameSource_129h.exe) | Game Source v1.29h Win32
