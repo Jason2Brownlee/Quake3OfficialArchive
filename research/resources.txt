@@ -20,9 +20,11 @@ Q3Test
 - https://www.betaarchive.com/forum/viewtopic.php?t=22492
 
 
-PR
-- http://www.bluesnews.com/files/idstuff/quake3/win32/
-
+Blues News Releases
+- https://www.bluesnews.com/files/idstuff/quake3/
+- https://www.bluesnews.com/files/idstuff/quake3/linux/
+- https://www.bluesnews.com/files/idstuff/quake3/mac/
+- https://www.bluesnews.com/files/idstuff/quake3/win32/
 
 level editor (out of scope?)
 - https://www.gamers.org/pub/idgames2/idstuff/qeradiant/GtkRadiant/GtkRadiant-1_3/

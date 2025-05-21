@@ -121,6 +121,7 @@ Release Date | File | Description
 2002 Oct 21 | [linuxq3a-sdk-1.32.x86.run](bin/linuxq3a-sdk-1.32.x86.run) | Game Source v1.32 Linux
 2002 Nov 04 | [Quake3-132.pkg.sit](bin/Quake3-132.pkg.sit) | Point Release 1.32 Mac OSX
 2002 Nov 16 | [linuxq3apoint-1.32b.x86.run](bin/linuxq3apoint-1.32b.x86.run) | Point Release 1.32b Beta 1 Linux
+2003 Jan 31 | [q3acommexpl.zip](bin/q3acommexpl.zip) | License Agreement
 2003 Jun 15 | [quake3-132-jaguar.pkg.sit](bin/quake3-132-jaguar.pkg.sit) | Point Release 1.32 Mac OSX
 2003 Jun 19 | [Quake3-132-AltivecTest2.pkg.sit](bin/Quake3-132-AltivecTest2.pkg.sit) | Point Release 1.32 Mac G4
 2003 Sep 09 | [linuxq3apoint-1.32b-2.x86.run](bin/linuxq3apoint-1.32b-2.x86.run) | Point Release 1.32b Beta 2 Linux
