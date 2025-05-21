@@ -75,8 +75,6 @@ Release Date | File | Description
 2000 Sep 22 | [Q3PointRelease_125.exe](bin/Q3PointRelease_125.exe) | Point Release v1.25 Win32
 2000 Oct 13 | [Q3PointRelease_BETA_125y.exe](bin/Q3PointRelease_BETA_125y.exe) | Point Release v1.25y Win32
 2000 Nov 22 | [TeamArenaDemo.exe](https://www.gamers.org/pub/idgames/idstuff/teamarena/TeamArenaDemo.exe) | Q3TA Demo Win32
-2000 Dec ?? | linuxq3apoint-1.27.x86.run | Point Release 1.27 Linux
-2000 Dec ?? | MacPointRelease_127.bin | Point Release 1.27 Mac
 2000 Dec 14 | [Q3PointRelease_127g.exe](bin/Q3PointRelease_127g.exe) | Point Release 1.27g Win32
 2000 Dec 16 | [quake3nommx_127g.zip](bin/quake3nommx_127g.zip) | Point Release 1.27g Win32 No MMX
 2000 Dec 17 | [q3ta_serv.zip](bin/q3ta_serv.zip) | Q3TA Server Batch Files
@@ -86,8 +84,8 @@ Release Date | File | Description
 2000 Dec 21 | [Q3A_ToolSource.exe](/bin/Q3A_ToolSource.exe) | Tool Source Win32
 2000 Dec 22 | [linuxq3ded-1.27g-beta1.tar.gz](bin/linuxq3ded-1.27g-beta1.tar.gz) | Point Release v1.27g Linux Dedicated
 2000 Dec 22 | [linuxq3a-1.27g-beta1.tar.gz](bin/linuxq3a-1.27g-beta1.tar.gz) | Point Release 1.27g Linux
-2000 Dec ?? | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 2001 Jan 04 | [roq.zip](bin/roq.zip) | RoQ encoder
+2001 Jan 08 | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 2001 Jan 15 | [Q3Tools_EditorSupport.exe](bin/Q3Tools_EditorSupport.exe) | Tool Support
 2001 Jun 06 | [linuxq3apoint-console-1.29f-beta1.x86.run](bin/linuxq3apoint-console-1.29f-beta1.x86.run) | Point Release 1.29f Linux Dedicated
 2001 Jun 18 | [linuxq3apoint-1.29f-beta1.x86.run](bin/linuxq3apoint-1.29f-beta1.x86.run) | Point Release 1.29f Linux
