@@ -11,6 +11,7 @@ Modern
 - https://www.mirrorservice.org/sites/quakeunity.com/demohq/
 - https://filepursuit.com/discover?link=https://www.mirrorservice.org/sites/quakeunity.com/point_releases
 - https://ftp.di.uminho.pt/pub/games/quake3
+- https://archive.org/download/quakeunity.com/demohq/
 
 Q3Test
 - https://archive.org/details/q3DemoTEST
@@ -35,3 +36,6 @@ gpl
 
 headlines
 - https://web.archive.org/web/20010424165544/http://www.3dgamers.com/news/game/quake3arena/
+
+linux / macos
+- https://web.archive.org/web/20060318075853/http://www.xlr8yourmac.com/archives/oct02/100902.html

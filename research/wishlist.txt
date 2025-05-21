@@ -24,6 +24,7 @@ MacPointRelease_127.bin
 quake3-MacClassic-129f-BETA.sit
 MacOSX-Q3A-1-31-BETA2.sit
 Quake3-1-32-test.dmg
+Quake3-132-Test2.dmg
 Quake3-132-Test3-Update.sit
 Quake3-132-Test4-Update.sit
 
