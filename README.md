@@ -108,7 +108,6 @@ Release Date | File | Description
 2002 Jan ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 2 Mac
 2002 Jan 06 | [MacOSX-Q3A-1-31-BETA3.sit](bin/MacOSX-Q3A-1-31-BETA3.sit) | Point Release 1.31 Beta 3 Mac
 2002 Jan 12 | [MacALL-Q3A-1-31-BETA4.sit](bin/MacALL-Q3A-1-31-BETA4.sit) | Point Release 1.31 Beta 4 Mac
-2002 Jan 12 | Quake3-Q3F-testfix.sit | ? Mac
 2002 Oct 07 | [q3pointrelease_132.exe](bin/q3pointrelease_132.exe) | Point Release 1.32 Win32
 2002 Oct 08 | [Q3PR132_10-7-02.exe](bin/Q3PR132_10-7-02.exe) | Point Release 1.32 (v100702) Win32
 2002 Oct 08 | [linuxq3apoint-1.32.x86.run](bin/linuxq3apoint-1.32.x86.run) | Point Release 1.32 Linux

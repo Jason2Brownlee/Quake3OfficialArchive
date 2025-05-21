@@ -31,10 +31,10 @@ Quake3-132-Test4-Update.sit
 
 
 
-# double check these...
+# what is this? a mod?
 # ---------------------------
 
-# a mod?
+# Q3F?
 Quake3-Q3F-testfix.sit
 
 
