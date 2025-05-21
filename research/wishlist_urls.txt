@@ -246,4 +246,6 @@ ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-132-Test3-Update.sit
 # Quake3-132-Test4-Update.sit
 # ???
 
+# Quake3-Q3F-testfix.sit
+ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-Q3F-testfix.sit
 
