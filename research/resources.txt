@@ -45,3 +45,12 @@ linux / macos
 
 mac osx port (unofficial? official?)
 - https://web.archive.org/web/20000815210924/http://www.omnigroup.com/community/freeware/quake3/
+
+
+NOTES:
+-------
+
+Q3PR132_10-7-02.exe has the same md5 hash as q3pointrelease_132.exe, it was renamed by ausgamers:
+https://web.archive.org/web/20021108213754/http://www.ausgamers.com/files/?agn=details&id=3536
+
+I've added it to the archive, but it does not need to be in the main list

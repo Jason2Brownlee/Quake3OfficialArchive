@@ -76,8 +76,7 @@ Release Date | File | Description
 2001 Oct 01 | [MacQuake3-1.30-OSX-b1.bin](bin/macquake3-1.30-osx-b1.bin) | Point Release 1.30 Mac
 2001 Dec 20 | [q3pointrelease_131.exe](bin/q3pointrelease_131.exe) | Point Release 1.31 Win32
 2001 Dec 21 | [linuxq3apoint-1.31.x86.run](bin/linuxq3apoint-1.31.x86.run) | Point Release 1.31 Linux
-2002 Jan ?? | [MacOSX-Q3A-1-31-BETA.sit](bin/MacOSX-Q3A-1-31-BETA.sit) | Point Release 1.31 Beta 1 Mac
-2002 Jan ?? | MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 2 Mac
+2002 Jan 04 | [MacOSX-Q3A-1-31-BETA.sit](bin/MacOSX-Q3A-1-31-BETA.sit)<br>MacOSX-Q3A-1-31-BETA2.sit | Point Release 1.31 Beta 1 and 2 Mac
 2002 Jan 06 | [MacOSX-Q3A-1-31-BETA3.sit](bin/MacOSX-Q3A-1-31-BETA3.sit) | Point Release 1.31 Beta 3 Mac
 2002 Jan 12 | [MacALL-Q3A-1-31-BETA4.sit](bin/MacALL-Q3A-1-31-BETA4.sit) | Point Release 1.31 Beta 4 Mac
 2002 Oct 07 | [q3pointrelease_132.exe](bin/q3pointrelease_132.exe)<br>[linuxq3apoint-1.32.x86.run](bin/linuxq3apoint-1.32.x86.run) | Point Release 1.32
