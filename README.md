@@ -18,8 +18,7 @@ Release Date | File | Description
 1999 Aug 03 | MacQ3Test_1_08.bin<br>q3test-1.08-glibc-2.i386.rpm<br>[q3test-1.08-glibc-2.i386.tar.gz](bin/q3test-1.08-glibc-2.i386.tar.gz)<br>[q3test_win32_1_08.exe](bin/q3test_win32_1_08.exe) | Q3Test v1.08
 1999 Nov 15 | [q3DemoTEST.exe](bin/q3DemoTEST.exe) | Q3Demo Test v1.09 Win32
 1999 Nov 18 | q3DemoTEST.bin | Q3Demo Test v1.10 Mac
-1999 Nov 20 | q3demoTEST-1.10-5.i386.tar.gz | Q3Demo Test v1.10 Linux
-1999 Nov 20 | q3demoTEST-1.10-5.i386.rpm | Q3Demo Test v1.10 Linux RPM
+1999 Nov 21 | q3demoTEST-1.10-5.i386.tar.gz<br>q3demoTEST-1.10-5.i386.rpm | Q3Demo Test v1.10 Linux
 1999 Dec 02 | n/a | Retail Release
 1999 Dec 03 | [Q3ADemo.exe](bin/Q3ADemo.exe) | Q3Demo v1.11 Win32
 1999 Dec 05 | [linuxq3ded-1.11-i386.tar.gz](bin/linuxq3ded-1.11-i386.tar.gz) | Dedicated Server v1.11 Linux
