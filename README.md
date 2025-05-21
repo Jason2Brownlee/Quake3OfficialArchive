@@ -9,18 +9,8 @@ Chronological list of Quake III Arena official releases in [bin/](bin/) includin
 Release Date | File | Description
 --- | --- | ---
 1999 Mar 01 | n/a | IHV Leak
-1999 Apr 24 | [MacQ3Test.bin](bin/MacQ3Test.bin) | Q3Test v1.02 Mac
-1999 Apr 24 | q3test-1.03-glibc-6.i386.rpm | Q3Test v1.03 Linux RPM
-1999 Apr 24 | [q3test-1.03-glibc-6.i386.tar.gz](bin/q3test-1.03-glibc-6.i386.tar.gz) | Q3Test v1.03 Linux
-1999 Apr 24 | [MacQ3Test_1_03.bin](bin/MacQ3Test_1_03.bin) | Q3Test v1.03 Mac
-1999 Apr 24 | MacQ3Test_1_03_update.bin | Q3Test v1.03  Mac Update
-1999 Apr 24 | [q3test_server_win32_x86.zip](bin/q3test_server_win32_x86.zip) | Q3Test v1.03 Win32 Server
-1999 Apr 24 | [q3test_1_03_win32_server.zip](bin/q3test_1_03_win32_server.zip) | Q3Test v1.03 Win32 Server Update
-1999 Apr 24 | [q3test_1_03_win32_server_update.zip](bin/q3test_1_03_win32_server_update.zip) | Q3Test v1.03 Win32 Server Update
-1999 May 10 | [MacQ3Test_1_05.bin](bin/MacQ3Test_1_05.bin) | Q3Test v1.05 Mac
-1999 May 10 | [q3test-1.05-glibc-9.i386.rpm](bin/q3test-1.05-glibc-9.i386.rpm) | Q3Test v1.05 Linux RPM
-1999 May 10 | [q3test-1.05-glibc-9.i386.tar.gz](bin/q3test-1.05-glibc-9.i386.tar.gz) | Q3Test v1.05 Linux
-1999 May 11 | [q3test_1_05.exe](bin/q3test_1_05.exe) | Q3Test v1.05 Win32
+1999 Apr 24 | [MacQ3Test.bin](bin/MacQ3Test.bin)<br>q3test-1.03-glibc-6.i386.rpm<br>[q3test-1.03-glibc-6.i386.tar.gz](bin/q3test-1.03-glibc-6.i386.tar.gz)<br>[MacQ3Test_1_03.bin](bin/MacQ3Test_1_03.bin)<br>[q3test_server_win32_x86.zip](bin/q3test_server_win32_x86.zip)<br>[q3test_1_03_win32_server.zip](bin/q3test_1_03_win32_server.zip)<br>[q3test_1_03_win32_server_update.zip](bin/q3test_1_03_win32_server_update.zip) | Q3Test v1.02
+1999 May 10 | [MacQ3Test_1_05.bin](bin/MacQ3Test_1_05.bin)<br>[q3test-1.05-glibc-9.i386.rpm](bin/q3test-1.05-glibc-9.i386.rpm)<br>[q3test-1.05-glibc-9.i386.tar.gz](bin/q3test-1.05-glibc-9.i386.tar.gz)<br>[q3test_1_05.exe](bin/q3test_1_05.exe) | Q3Test v1.05
 1999 Jul 16 | [q3test_1_06.exe](bin/q3test_1_06.exe) | Q3Test v1.06 Win32
 1999 Jul 20 | [q3test_win32_1_07.exe](bin/q3test_win32_1_07.exe) | Q3Test v1.07 Win32
 1999 Jul 20 | [q3test_win32_1_06-07.exe](bin/q3test_win32_1_06-07.exe) | Q3Test v1.07 Win32 Update
