@@ -190,7 +190,8 @@ http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/quake3/M
 http://www.quakeshit.com/files/macquake3_116i_beta.sea
 
 # linuxq3apoint-1.27.x86.run
-# ???
+ftp://ftp.bluesnews.com/idstuff/quake3/linux/linuxq3apoint-1.27.x86.run
+ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3apoint-1.27.x86.run
 
 # MacPointRelease_127.bin
 ftp://ftp.bluesnews.com/idstuff/quake3/mac/MacPointRelease_127.bin
