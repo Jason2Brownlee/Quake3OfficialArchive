@@ -190,6 +190,29 @@ http://www.fileplanet.com/redir.asp?file=32025&archive=26479&url=http://fileplan
 http://www.fileplanet.com/redir.asp?file=32025&archive=26480&url=http://fileplanet2.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
 
+# linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
+ftp://ftp.bluesnews.com/idstuff/quake3/linux/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
+ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
+ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
+http://dl.fileplanet.com/dl/dl.asp?quake3/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/quake3/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
+http://www.quakeshit.com/files/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
+
+# MacQuake3_116i_Beta.sea
+ftp://ftp.bluesnews.com/idstuff/quake3/mac/macquake3_116i_beta.sea
+ftp://ftp.idsoftware.com/idstuff/quake3/mac/macquake3_116i_beta.sea
+http://dl.fileplanet.com/dl/dl.asp?quake3/MacQuake3_116i_Beta.sea
+http://src.doc.ic.ac.uk/packages/idgames/idstuff/quake3/mac/MacQuake3_116i_Beta.sea
+http://src.doc.ic.ac.uk/packages/idgames2/planetquake/quake3/MacQuake3_116i_Beta.sea
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/quake3/MacQuake3_116i_Beta.sea
+http://www.quakeshit.com/files/macquake3_116i_beta.sea
+
+# linuxq3apoint-1.27.x86.run
+# ???
+
+# MacPointRelease_127.bin
+ftp://ftp.bluesnews.com/idstuff/quake3/mac/MacPointRelease_127.bin
+ftp://ftp.idsoftware.com/idstuff/quake3/mac/MacPointRelease_127.bin
 
 
 
