@@ -1,0 +1,115 @@
+Server commands howto.
+
+I'll be using Java as the example language here because it's rather easy to send UDP packets in Java compared to other languages.
+
+The Quake 3 Arena server exclusively uses UDP packets for all transmission.  Specifically, it uses what we define as "Out Of Band" packets (OOB), or connectionless packet.  That is, the first four bytes of the packet make up the serial number of the packet (in a series of two 16 bit words), and whether or not it is reliably sent (reliable packets set the high bit of the word), but when an OOB packet it sent, the first four bytes are marked as 0xff, followed by the command, which is in ASCII.
+
+The server normally responds on port 27960, but this is user configurable with the "net_port" cvar.  The server will automatically increment from 27960 when a second instance of the application is started to allow up to four servers on a single machine.
+
+So, to get the server status you could write the following code:
+
+ds = new DatagramSocket();
+	InetAddress ia = InetAddress.getByName("game.idsoftware.com");
+	String out = "xxxxgetstatus";
+	byte [] buff = out.getBytes();
+	buff[0] = (byte)0xff;		// oob
+buff[1] = (byte)0xff;
+buff[2] = (byte)0xff;
+buff[3] = (byte)0xff;
+dp = new DatagramPacket(buff, buff.length, ia, 27960);
+	ds.send(dp);
+
+You could then expect to get data back on the same port using:
+			
+	buff = new byte[65507];
+	dp = new DatagramPacket(buff, buff.length);
+	ds.receive(dp);
+	String temp = new String(buff);
+
+Because we're using UDP you are not guaranteed to get data back, so you need to set up your code to use the appropriate time outs.  The value 65507 is the maximum possible packet size receivable through a datagram, although actual transport through the Internet is somewhat more limiting.
+
+The commands accepted as OOB packets are as follows:
+
+getstatus
+getinfo
+getchallenge
+connect
+rcon
+
+Any other command will result in the error "bad connectionless packet from xxxxx".
+
+"getstatus" responds with all the info that qplug or qspy can see about the server and all connected players.  Used for getting detailed information after the simple info query.  It is sent along with a challenge string.  The server will respond with a "getstatusResponse" packet.
+
+"getinfo" responds with a short info message that should be enough to determine if a user is interested in a server to do a full status.  It is also sent with a challenge string.
+
+"getchallenge" returns a challenge number that can be used in a subsequent connectResponse command.  We do this to prevent denial of service attacks that flood the server with invalid connection IPs.  With a challenge, they must give a valid IP address.  The server will respond with a "challengeResponse" packet.
+
+"connect" is the first step in a client connecting to a server.  You send the "connect" string followed by the infoString containing the protocol version of the client, the qport, the challenge string (obtained via getchallenge), and the userinfo.
+
+"rcon" is a remote command to the server.  It's sent as "rcon" followed by the server password, followed by the command string to be executed.
+
+
+Format of packets.
+
+When you send a command like "getstatus" or "getinfo", you should add a challenge parameter to your packet that the server needs to relay back to you.  We do this in order to stop ghost servers appearing which do nothing more than send ghost heartbeats to a master server, you should query and check a server with a challenge before accepting it.  A typical challenge is a random word ASCII string, remember that this adds to your packet size on sending and receiving.
+
+Arguments in the packet string are separated by whitespace.  So to send in a getstatus command with a challenge string you would use a string like "getstatus justchecking", where "getstatus" is the ASCII text following the OOB packet header, and "justchecking" is the challenge string.
+
+To send a request, with a challenge, to a server you could use this, the java class publicServer contains information on the server such as it's port, address, challenge string, and tracks the response from the server as well.
+
+public static void request(DatagramSocket ds, String rs, publicServer ps)
+{
+String ch = String.valueOf(System.currentTimeMillis());
+	String s = "xxxx" + rs + " " + ch;
+	ps.setChallenge(ch);		// so we can check the response
+	byte [] buff = s.getBytes();
+	buff[0] = (byte)0xff;		// oob packet
+buff[1] = (byte)0xff;
+buff[2] = (byte)0xff;
+buff[3] = (byte)0xff;
+DatagramPacket dp = new DatagramPacket(buff, buff.length, ps.getInetAddress(), ps.getPort());
+	ds.send(dp);			// send on dp port, bound to ds port
+}
+The infoString format
+
+When the server responds to this command, it will send an OOB packet back with a series of tokens, separated by back slashes ("\"s) that make up the response, we call this the "infoString" format, and it's important because a lot of client/server communication is sent using this method of partitioning strings.  InfoStrings are normally completely quoted (i.e. they have a " at the beginning and at the end) to make them into a single argument.
+
+In the case of the "getstatus" or "getinfo" one of these responses will be the string "challenge", which needs to exactly match the challenge string you sent to the server in order for the response to be valid.
+
+public boolean checkChallenge(String in)
+{
+	StringTokenizer tokens = new StringTokenizer(in,"\\");
+	tokens.nextToken();
+	while(tokens.hasMoreTokens())
+	{
+		String cmd = tokens.nextToken();
+		if (!tokens.hasMoreTokens()) return false;	
+// in case someone tries to send through false package
+		String val = tokens.nextToken();
+		if (cmd.compareTo("challenge") == 0)
+		{
+			if (val.compareTo(getChallenge())==0)		
+			{
+				m_verified = true;
+				return true;
+			}
+			else
+			{
+				return false;
+			}
+		}
+	}
+	return false;
+}
+
+Connection
+
+A client connects to the server through the OOB "connect" packet in the format outlined above.  This consists of a connect string followed by an infoString which contains of /at least/ the following tokens:
+
+"protocol" - the version of the client.  This is a check to make sure we match between the server and the client.  Mismatched protocols may not connect and the connection is terminated if they do not match.
+
+"challenge" - as outlined above, this is the string that the client gets back from a getChallenge request.
+
+"port" - which qport should the server use when addressing this client.  A qport is a separate address from the actual UDP port that the client/server uses, and can be used to resolve issues when we have multiple clients on a single dynamic IP address.
+
+
