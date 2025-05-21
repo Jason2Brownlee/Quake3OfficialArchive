@@ -95,8 +95,7 @@ Release Date | File | Description
 2001 Jun 18 | [linuxq3apoint-1.29f-beta1.x86.run](bin/linuxq3apoint-1.29f-beta1.x86.run) | Point Release 1.29f Linux
 2001 Jun 18 | [q3pointrelease_129f_beta.exe](bin/q3pointrelease_129f_beta.exe) | Point Release 1.29f Win32
 2001 Jun 18 | [quake3-OSX-129f-BETA.dmg](bin/quake3-OSX-129f-BETA.dmg) | Point Release 1.29f Beta 1 Mac
-2001 Jun 19 | [rtf_q3ta_teams.zip](bin/rtf_q3ta_teams.zip) | Q3TA Manual RTF
-2001 Jun 19 | [html_q3ta_teams.zip](bin/html_q3ta_teams.zip) | Q3TA Manual HTML
+2001 Jun 19 | [rtf_q3ta_teams.zip](bin/rtf_q3ta_teams.zip)<br>[html_q3ta_teams.zip](bin/html_q3ta_teams.zip) | Q3TA Manual RTF and HTML
 2001 Jun 20 | [quake3-macosx-129f-2.dmg](bin/quake3-macosx-129f-2.dmg) | Point Release 1.29f Beta 2 Mac
 2001 Jun 21 | quake3-MacClassic-129f-BETA.sit | Point Release 1.29f Mac
 2001 Jul 27 | [q3pointrelease_129g_beta.exe](bin/q3pointrelease_129g_beta.exe) | Point Release 1.29g Win32
