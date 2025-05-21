@@ -15,10 +15,7 @@ Release Date | File | Description
 1999 May 10 | [MacQ3Test_1_05.bin](bin/MacQ3Test_1_05.bin)<br>[q3test-1.05-glibc-9.i386.rpm](bin/q3test-1.05-glibc-9.i386.rpm)<br>[q3test-1.05-glibc-9.i386.tar.gz](bin/q3test-1.05-glibc-9.i386.tar.gz)<br>[q3test_1_05.exe](bin/q3test_1_05.exe) | Q3Test v1.05
 1999 Jul 16 | [q3test_1_06.exe](bin/q3test_1_06.exe) | Q3Test v1.06 Win32
 1999 Jul 20 | [q3test_win32_1_07.exe](bin/q3test_win32_1_07.exe)<br>[q3test_win32_1_06-07.exe](bin/q3test_win32_1_06-07.exe)<br>q3test-linux-1.07-glibc-4.i386.tar.gz<br>[q3test-linux-1.07-glibc-4.i386.rpm](bin/q3test-linux-1.07-glibc-4.i386.rpm) | Q3Test v1.07
-1999 Aug 03 | MacQ3Test_1_08.bin | Q3Test v1.08 Mac
-1999 Aug 03 | q3test-1.08-glibc-2.i386.rpm | Q3Test v1.08 Linux RPM
-1999 Aug 03 | [q3test-1.08-glibc-2.i386.tar.gz](bin/q3test-1.08-glibc-2.i386.tar.gz) | Q3Test v1.08 Linux
-1999 Aug 03 | [q3test_win32_1_08.exe](bin/q3test_win32_1_08.exe) | Q3Test v1.08 Win32
+1999 Aug 03 | MacQ3Test_1_08.bin<br>q3test-1.08-glibc-2.i386.rpm<br>[q3test-1.08-glibc-2.i386.tar.gz](bin/q3test-1.08-glibc-2.i386.tar.gz)<br>[q3test_win32_1_08.exe](bin/q3test_win32_1_08.exe) | Q3Test v1.08
 1999 Nov 15 | [q3DemoTEST.exe](bin/q3DemoTEST.exe) | Q3Demo Test v1.09 Win32
 1999 Nov 18 | q3DemoTEST.bin | Q3Demo Test v1.10 Mac
 1999 Nov 20 | q3demoTEST-1.10-5.i386.tar.gz | Q3Demo Test v1.10 Linux

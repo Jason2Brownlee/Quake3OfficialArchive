@@ -42,3 +42,6 @@ headlines
 
 linux / macos
 - https://web.archive.org/web/20060318075853/http://www.xlr8yourmac.com/archives/oct02/100902.html
+
+mac osx port (unofficial? official?)
+- https://web.archive.org/web/20000815210924/http://www.omnigroup.com/community/freeware/quake3/
