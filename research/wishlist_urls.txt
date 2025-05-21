@@ -215,4 +215,3 @@ ftp://ftp.bluesnews.com/idstuff/quake3/mac/MacPointRelease_127.bin
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/MacPointRelease_127.bin
 
 
-
