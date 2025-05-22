@@ -60,6 +60,7 @@ Release Date | File | Description
 2000 Dec 21 | [Q3A_ToolSource.exe](/bin/Q3A_ToolSource.exe) | Tool Source Win32
 2000 Dec 22 | [linuxq3a-1.27g-beta1.tar.gz](bin/linuxq3a-1.27g-beta1.tar.gz)<br>[linuxq3ded-1.27g-beta1.tar.gz](bin/linuxq3ded-1.27g-beta1.tar.gz) | Point Release v1.27g Linux
 2001 Jan 04 | [roq.zip](bin/roq.zip) | RoQ encoder
+2001 Jan 05 | [TerrainConstruction_1.zip](bin/TerrainConstruction_1.zip) | Q3TA Terrain Construction Manual
 2001 Jan 08 | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 2001 Jan 15 | [Q3Tools_EditorSupport.exe](bin/Q3Tools_EditorSupport.exe) | Tool Support
 2001 Mar 12 | [QCon2KModels.ZIP](bin/QCon2KModels.ZIP) | Quake Con Models

@@ -14,6 +14,9 @@ Modern
 - https://ftp.di.uminho.pt/pub/games/quake3
 - https://archive.org/download/quakeunity.com/demohq/
 
+Team Arena
+- https://thegate.gamers.org/pub/idgames2/idstuff/teamarena/
+
 Q3Test
 - https://archive.org/details/q3DemoTEST
 - https://archive.org/download/quake_prerelease
@@ -42,10 +45,23 @@ headlines
 
 linux / macos
 - https://web.archive.org/web/20060318075853/http://www.xlr8yourmac.com/archives/oct02/100902.html
+	Quake3-132-Test3-Update.sit
+	Quake3-132-Test2.dmg
+	Q3DedicatedServer-132-Test.tar.gz
+- https://web.archive.org/web/20140730200207/http://xlr8yourmac.com/archives/oct02/100802.html
+	Quake3-1-32-test.dmg
+- https://web.archive.org/web/20120108173418/http://xlr8yourmac.com/archives/oct02/101102.html
+	Quake3-132-Test4-Update.sit
+	Quake3-132-Test3-Update.sit
+	Quake3-132-Test2.dmg
 
 mac osx port (unofficial? official?)
 - https://web.archive.org/web/20000815210924/http://www.omnigroup.com/community/freeware/quake3/
-
+	https://web.archive.org/web/20010610213505/http://www.omnigroup.com/ftp/pub/software/MacOSX/PublicBeta/
+	Q3TestDedicatedServer-1.08-MXS-P-b.tar.gz
+	Q3Test-1.08-MXS-P.tar.gz
+	Quake3-1.17.sit
+	Quake3-1.17.gnutar.gz
 
 NOTES:
 -------
