@@ -73,8 +73,10 @@ Release Date | File | Description
 2001 Jun 21 | quake3-MacClassic-129f-BETA.sit | Point Release 1.29f Mac
 2001 Jul 27 | [q3pointrelease_129g_beta.exe](bin/q3pointrelease_129g_beta.exe)<br>[linuxq3apoint-1.29g-beta.x86.run](bin/linuxq3apoint-1.29g-beta.x86.run) | Point Release 1.29g
 2001 Jul 31 | [q3pointrelease_129h_beta.exe](bin/q3pointrelease_129h_beta.exe)<br>[linuxq3apoint-1.29h-beta.x86.run](bin/linuxq3apoint-1.29h-beta.x86.run) | Point Release 1.29h
-2001 Aug 14 | [abuse_vs_id_quakecon01.zip](bin/abuse_vs_id_quakecon01.zip) | Quake Con Demo
 2001 Aug 01 | [Q3A_TA_GameSource_129h.exe](bin/Q3A_TA_GameSource_129h.exe) | Game Source v1.29h Win32
+2001 Aug 10 | [map_gallery2_qc2k1.zip](bin/map_gallery2_qc2k1.zip) | QuakeCon 2001 Map Object Model contest
+2001 Aug 13 | [ta_team_titans.zip](bin/ta_team_titans.zip) | TITANS for Quake3 TEAM ARENA
+2001 Aug 14 | [abuse_vs_id_quakecon01.zip](bin/abuse_vs_id_quakecon01.zip) | Quake Con Demo
 2001 Sep 27 | [q3pointrelease_130.exe](bin/q3pointrelease_130.exe)<br>[linuxq3apoint-1.30.x86.run](bin/linuxq3apoint-1.30.x86.run) | Point Release 1.30
 2001 Sep 28 | [MacQuake3-1.30.bin](bin/MacQuake3-1.30.bin) | Point Release 1.30 Mac
 2001 Oct 01 | [MacQuake3-1.30-OSX-b1.bin](bin/macquake3-1.30-osx-b1.bin) | Point Release 1.30 Mac
