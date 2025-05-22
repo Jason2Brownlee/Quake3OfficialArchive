@@ -63,7 +63,11 @@ Release Date | File | Description
 2001 Jan 05 | [TerrainConstruction_1.zip](bin/TerrainConstruction_1.zip) | Q3TA Terrain Construction Manual
 2001 Jan 08 | [q3pointrelease_127h_beta.exe](bin/q3pointrelease_127h_beta.exe) | Point Release 1.27h Win32
 2001 Jan 15 | [Q3Tools_EditorSupport.exe](bin/Q3Tools_EditorSupport.exe) | Tool Support
+2001 Feb 14 | [TA_mappak1.zip](bin/TA_mappak1.zip) | Q3TA Map Pack v1
+2001 Feb 18 | [TA_mappak1b.zip](bin/TA_mappak1b.zip) | Q3TA Map Pack v1b
+2001 Feb 18 | [hal9000_b_ta.zip](bin/hal9000_b_ta.zip) | Q3TA Map Pack v1 Update
 2001 Mar 12 | [QCon2KModels.ZIP](bin/QCon2KModels.ZIP) | Quake Con Models
+2001 May 14 | [TA_mappak2.zip](bin/TA_mappak2.zip) | Q3TA Map Pack v2
 2001 Jun 18 | [linuxq3apoint-console-1.29f-beta1.x86.run](bin/linuxq3apoint-console-1.29f-beta1.x86.run)<br>[linuxq3apoint-1.29f-beta1.x86.run](bin/linuxq3apoint-1.29f-beta1.x86.run)<br>[q3pointrelease_129f_beta.exe](bin/q3pointrelease_129f_beta.exe)<br>[quake3-OSX-129f-BETA.dmg](bin/quake3-OSX-129f-BETA.dmg) | Point Release 1.29f
 2001 Jun 19 | [rtf_q3ta_teams.zip](bin/rtf_q3ta_teams.zip)<br>[html_q3ta_teams.zip](bin/html_q3ta_teams.zip) | Q3TA Manual RTF and HTML
 2001 Jun 20 | [quake3-macosx-129f-2.dmg](bin/quake3-macosx-129f-2.dmg) | Point Release 1.29f Beta 2 Mac
