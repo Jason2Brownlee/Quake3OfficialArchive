@@ -137,6 +137,7 @@ http://mirrors.telepac.pt/pub/3dfxmania/games/q3test-1.08-glibc-2.i386.rpm
 http://src.doc.ic.ac.uk/packages/idgames/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 http://src.doc.ic.ac.uk/packages/quake/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
+ftp://ftp.axg.net/downloads/quake/quake3/Linux/q3test-1.08-glibc-2.i386.rpm
 
 # q3DemoTEST.bin
 ftp://ftp.3dgamers.com/pub/3daction/00archives/quake3arena/releases/MacQ3DemoTEST.bin
