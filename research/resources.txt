@@ -1,4 +1,5 @@
 Resources
+---------
 
 Modern
 - https://www.gamers.org/pub/games/idgames/idstuff/quake3/
@@ -22,7 +23,7 @@ Q3Test
 - https://archive.org/download/quake_prerelease
 - https://archive.org/details/quakeprototypes
 - https://www.betaarchive.com/forum/viewtopic.php?t=22492
-
+- https://web.archive.org/web/19990910203659/http://www.quakecity.net:80/files.asp?dir=quake3
 
 Blues News Releases
 - https://www.bluesnews.com/files/idstuff/quake3/
@@ -64,9 +65,17 @@ mac osx port (unofficial? official?)
 	Quake3-1.17.gnutar.gz
 
 NOTES:
--------
+------
+
+Q3PR132_10-7-02.exe:
 
 Q3PR132_10-7-02.exe has the same md5 hash as q3pointrelease_132.exe, it was renamed by ausgamers:
 https://web.archive.org/web/20021108213754/http://www.ausgamers.com/files/?agn=details&id=3536
 
 I've added it to the archive, but it does not need to be in the main list
+
+
+Quake3-Q3F-testfix.sit:
+
+- released the same time as "MacALL-Q3A-1-31-BETA4.sit" on ftp.idsoftware.com circa 2002
+https://groups.google.com/g/nl.comp.sys.mac/c/cD5jXYN3_V0/m/m3VsIDjSZLgJ
