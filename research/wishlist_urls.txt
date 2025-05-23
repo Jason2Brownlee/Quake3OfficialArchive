@@ -11,13 +11,18 @@ ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rp
 ftp://ftp.cdrom.com/pub/quake/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm
 ftp://ftp.cdrom.com/q3test-1.03-glibc-6.i386.rpm
 ftp://ftp.datacomm.ch/pub/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.iol.it/3dfiles/games/q3test-1.03-glibc-6.i386.rpm
 ftp://ftp.linuxquake.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.quakecity.net/quake3/Q3TEST-1_03-GLIBC-6_I386.RPM
+ftp://ftp.saix.net/pub/3dfiles/games/q3test-1.03-glibc-6.i386.rpm
 ftp://ftp.stomped.com/pub/redwood/q3a/linux/q3test-1.03-glibc-6.i386.rpm
 ftp://ftp.stomped.com/pub/redwood/q3a/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
 ftp://ftp.stomped.com/q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.telepac.pt/pub/3dfiles/games/q3test-1.03-glibc-6.i386.rpm
 ftp://ftp.warzone.com/pub/quake3/q3test-1.03-glibc-6.i386.rpm
 ftp://ftp.warzone.com/pub/quake3/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
 ftp://ftp.warzone.com/q3test-1.03-glibc-6.i386.rpm
+ftp://mirror.aarnet.edu.au/3dfiles/games/q3test-1.03-glibc-6.i386.rpm
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3test-1.03-glibc-6.i386.rpm
 ftp://qftp1.heat.net/pub/linux/q3test-1.03-glibc-6.i386.rpm
 ftp://qftp1.heat.net/pub/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
@@ -25,6 +30,7 @@ ftp://qftp1.heat.net/q3test-1.03-glibc-6.i386.rpm
 ftp://tux.telefragged.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm
 ftp://tux.telefragged.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
 ftp://tux.telefragged.com/q3test-1.03-glibc-6.i386.rpm...
+http://ftp.telepac.pt/pub/3dfiles/games/q3test-1.03-glibc-6.i386.rpm
 http://www.clanworld.org/files/quake3arena/game/linux/q3test-1.03-glibc-6.i386.rpm
 http://www.clanworld.org/files/quake3arena/game/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
 http://www.clanworld.org/files/quake3arena/linux/q3test-1.03-glibc-6.i386.rpm
@@ -33,7 +39,6 @@ http://www.planetquake.com/dl/dl.asp?quake3/q3test-1.03-glibc-6.i386.rpm
 http://www.q3arena.pl/download/q3test/linux/q3test-1.03-glibc-6.i386.rpm
 http://www.quakecity.net/files.asp?dir=quake3&file;=q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
 http://www.quakecity.net/files.asp?dir=quake3&file=q3test-1.03-glibc-6.i386.rpm
-ftp://ftp.quakecity.net/quake3/Q3TEST-1_03-GLIBC-6_I386.RPM
 
 # MacQ3Test_1_03_update.bin
 ftp://ftp.barrysworld.com/Quake3/test/mac/MacQ3Test_1_03_update.bin
@@ -156,6 +161,7 @@ http://demo.quake3arena.com/quake/linux/q3demotest-1.10-5.i386.tar.gz
 http://www.fileplanet.com/index.asp?file=32026
 http://www.gulic.org/demos/q3demoTEST-1.10-5.i386.tar.gz
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
+ftp://ftp.splatterworld.de/pub/quake3/idsoftware/linux/q3demoTEST-1.10-5.i386.tar.gz
 
 # q3demoTEST-1.10-5.i386.rpm
 ftp://atec.santafe.cc.fl.us/pub/q3demoTEST-1.10-5.i386.rpm
