@@ -83,6 +83,7 @@ http://www.clanworld.org/files/quake3arena/game/linux/q3test-linux-1.07-glibc-4.
 http://www.primorye.ru/quake/files/q3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.quakecity.net/files.asp?dir=QUAKE3&file;=Q3TEST-LINUX-1.07-GLIBC-4.I386.TAR.GZ%3C/a%3E%3C/li%3E
 http://www.quakecity.net/files.asp?dir=QUAKE3&file=Q3TEST-LINUX-1.07-GLIBC-4.I386.TAR.GZ
+ftp://ftp.demon.net/pub/demongames/idsoftware/quake3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
 
 # MacQ3Test_1_08.bin
 ftp://ftp.3dgamers.com/pub/3daction/00archives/quake3arena/releases/MacQ3Test_1_08.bin
@@ -138,6 +139,7 @@ http://src.doc.ic.ac.uk/packages/idgames/idstuff/quake3/linux/q3test-1.08-glibc-
 http://src.doc.ic.ac.uk/packages/quake/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 ftp://ftp.axg.net/downloads/quake/quake3/Linux/q3test-1.08-glibc-2.i386.rpm
+ftp://ftp.demon.net/pub/demongames/idsoftware/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 
 # q3DemoTEST.bin
 ftp://ftp.3dgamers.com/pub/3daction/00archives/quake3arena/releases/MacQ3DemoTEST.bin
