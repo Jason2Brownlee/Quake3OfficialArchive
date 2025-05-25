@@ -1,0 +1,32 @@
+# Exclusions (false positive links)
+# ==================================
+
+# Mostly just bad links found by the automated scripts
+
+
+http://www.fileplanet.com/redir.asp?file=32025&archive=22269&url=http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://www.fileplanet.com/redir.asp?file=32025&archive=22611&url=http://demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
+http://www.fileplanet.com/redir.asp?file=32025&archive=23067&url=ftp://fileplanet.gil.com.au/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://www.fileplanet.com/redir.asp?file=32025&archive=23067&url=http://fileplanet.gil.com.au/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://www.fileplanet.com/redir.asp?file=32025&archive=23112&url=ftp://ftp.ngi.it/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://www.fileplanet.com/redir.asp?file=32025&archive=23205&url=ftp://ftp.liquidextremes.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://www.fileplanet.com/redir.asp?file=32025&archive=23270&url=ftp://files.gameloft.com/files/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://www.fileplanet.com/redir.asp?file=32025&archive=26372&url=ftp://ftp.white-mouse.com/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://www.fileplanet.com/redir.asp?file=32025&archive=26479&url=http://fileplanet1.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://www.fileplanet.com/redir.asp?file=32025&archive=26480&url=http://fileplanet2.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://www.meccaworld.com/templates/download.asp?Name=Quake_III:_Arena&FilePath=ftp://ftp.meccaworld.com/pub/downloads/quake_3_arena/q3demotest.bin
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl3&d_url=ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
+http://www.fileplanet.com/redir.asp?file=14687&archive=22260&url=http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3test-linux-1.07-glibc-4.i386.tar.gz
+ftp://ftp.cdrom.com/../q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.stomped.com/../q3test-1.03-glibc-6.i386.rpm
+ftp://ftp.warzone.com/../q3test-1.03-glibc-6.i386.rpm
+ftp://qftp1.heat.net/../q3test-1.03-glibc-6.i386.rpm
+http://www.clanworld.org/../q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.barrysworld.com/Quake3/test/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.stomped.com/pub/redwood/q3a/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://ftp.warzone.com/pub/quake3/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://qftp1.heat.net/pub/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=ftp://tux.telefragged.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=http://www.clanworld.org/files/quake3arena/game/linux/q3test-1.03-glibc-6.i386.rpm
+http://www.quakefiles.com/files/download.php?filekey=q3aqtestgl1&d_url=http://www.quakecity.net/files.asp?dir=quake3&file=q3test-1.03-glibc-6.i386.rpm

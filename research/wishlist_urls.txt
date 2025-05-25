@@ -165,6 +165,7 @@ http://www.fileplanet.com/index.asp?file=32026
 http://www.gulic.org/demos/q3demoTEST-1.10-5.i386.tar.gz
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
 ftp://ftp.splatterworld.de/pub/quake3/idsoftware/linux/q3demoTEST-1.10-5.i386.tar.gz
+http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.tar.gz
 
 # q3demoTEST-1.10-5.i386.rpm
 ftp://atec.santafe.cc.fl.us/pub/q3demoTEST-1.10-5.i386.rpm
@@ -182,9 +183,11 @@ http://fileplanet2.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.
 http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://fileplanet1.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
+http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
 
 # linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
 ftp://ftp.bluesnews.com/idstuff/quake3/linux/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
+ftp://ftp.gamers.de/_sites/quake3/patches/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
 ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
 http://dl.fileplanet.com/dl/dl.asp?quake3/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
@@ -193,6 +196,7 @@ http://www.quakeshit.com/files/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
 
 # MacQuake3_116i_Beta.sea
 ftp://ftp.bluesnews.com/idstuff/quake3/mac/macquake3_116i_beta.sea
+ftp://ftp.gamers.de/_sites/quake3/patches/macquake3_116i_beta.sea
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/macquake3_116i_beta.sea
 http://dl.fileplanet.com/dl/dl.asp?quake3/MacQuake3_116i_Beta.sea
 http://src.doc.ic.ac.uk/packages/idgames/idstuff/quake3/mac/MacQuake3_116i_Beta.sea
