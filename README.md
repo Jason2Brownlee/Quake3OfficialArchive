@@ -30,7 +30,7 @@ Release Date | File | Description
 2000 Jan 07 | [q3pointbeta.exe](bin/q3pointbeta.exe) | Point Release Beta 1 Win32
 2000 Jan 11 | [q3pointbeta2.exe](bin/q3pointbeta2.exe) | Point Release Beta 2 Win32
 2000 Jan 12 | [MacPointBeta.bin](bin/MacPointBeta.bin) | Point Release Mac
-2000 Jan 13 | [Q3PointRelease_Jan1300.exe](bin/Q3PointRelease_Jan1300.exe) | Point Release Win32
+2000 Jan 13 | [Q3PointRelease_Jan1300.exe](bin/Q3PointRelease_Jan1300.exe) | Point Release v1.15c Win32
 2000 Jan 13 | [Q3AGameSource.exe](bin/Q3AGameSource.exe) | Game Source Win32
 2000 Jan 17 | [Q3ABotEdit.zip](bin/Q3ABotEdit.zip) | Bot editing manual
 2000 Feb 16 | [q3rmanpc.zip](bin/q3rmanpc.zip)<br>[q3rmanhtml.zip](bin/q3rmanhtml.zip) | Q3Radiant Manual HTML and DOC
