@@ -90,6 +90,7 @@ ftp://ftp.demon.net/pub/demongames/idsoftware/quake3/linux/q3test-linux-1.07-gli
 ftp://ftp.3dgamers.com/pub/3daction/00archives/quake3arena/releases/MacQ3Test_1_08.bin
 ftp://ftp.bluesnews.com/idstuff/quake3/mac/MacQ3Test_1_08.bin
 ftp://ftp.bluesnews.com/q3a/MacQ3Test_1_08.bin
+ftp://ftp.cdrom.com//pub/idgames/idstuff/quake3/mac/MacQ3Test_1_08.bin
 ftp://ftp.cdrom.com/idgames/idstuff/quake3/mac/MacQ3Test_1_08.bin
 ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/mac/MacQ3Test_1_08.bin
 ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/mac/MacQ3Test_1_08.bin%3C/a%3E%3C/li%3E
@@ -133,6 +134,7 @@ ftp://ftp.games-net.pl/pub/demos_and_movies/q3/q3test-1.08-glibc-2.i386.rpm
 ftp://ftp.idsoftware.com/idstuff/quake3/linux/q3test-1.08-glibc-2.i386.rpm
 ftp://ftp.splatterworld.de/pub/quake3/idsoftware/linux/q3test-1.08-glibc-2.i386.rpm
 ftp://ftp.stomped.com/pub/quake3/idstuff/linux/q3test-1.08-glibc-2.i386.rpm
+ftp://ftp.stomped.com/pub/quake3/updates/linux/q3test-1.08-glibc-2.i386.rpm
 ftp://ftp2.3dgamers.com/pub/3daction/00archives/quake3arena/releases/q3test-1.08-glibc-2.i386.rpm
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3test-1.08-glibc-2.i386.rpm
 ftp://perzej2.g-kabel.si/q3a/essential/linux/q3test-1.08-glibc-2.i386.rpm
@@ -256,4 +258,6 @@ ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-132-Test4-Update.sit
 
 # Quake3-Q3F-testfix.sit
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-Q3F-testfix.sit
+http://www.versiontracker.com/redir.fcgi/kind=1&db=macosx&id=8961/Quake3-Q3F
+
 
