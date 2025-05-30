@@ -32,7 +32,7 @@ Quake3-132-Test4-Update.sit
 # what is this? a mod?
 # ---------------------------
 
-# Q3F?
+# beta 5 and fix for Q3F
 Quake3-Q3F-testfix.sit
 
 
