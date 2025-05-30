@@ -90,7 +90,7 @@ Release Date | File | Description
 2002 Oct 09 | Q3DedicatedServer-132-Test.tar.gz | Point Release 1.32 Mac Dedicated
 2002 Oct 10 | Quake3-132-Test3-Update.sit | Point Release 1.32 Test 3 Mac
 2002 Oct 11 | Quake3-132-Test4-Update.sit | Point Release 1.32 Test 4 Mac
-2002 Oct 11 | Quake3-Q3F-testfix.sit | Point Release 1.32 Test 5 + Fix for Q3F Mac
+2002 Oct 11 | Quake3-Q3F-testfix.sit | Point Release 1.32 Test 5 + Q3F Fix Mac
 2002 Oct 21 | [Q3A_TA_GameSource_132.exe](bin/Q3A_TA_GameSource_132.exe)<br>[linuxq3a-sdk-1.32.x86.run](bin/linuxq3a-sdk-1.32.x86.run) | Game Source v1.32
 2002 Nov 04 | [Quake3-132.pkg.sit](bin/Quake3-132.pkg.sit) | Point Release 1.32 Mac OSX
 2002 Nov 16 | [linuxq3apoint-1.32b.x86.run](bin/linuxq3apoint-1.32b.x86.run) | Point Release 1.32b Beta 1 Linux
