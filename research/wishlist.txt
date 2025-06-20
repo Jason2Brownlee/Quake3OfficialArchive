@@ -47,3 +47,6 @@ linuxq3apoint-1.27.x86.run
 
 # https://www.bluesnews.com/files/idstuff/quake3/mac/macpointrelease_127.shtml
 MacPointRelease_127.bin
+
+# what is this, demo?
+linuxquake3.tar.gz

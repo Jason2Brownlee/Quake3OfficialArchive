@@ -260,4 +260,11 @@ ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-132-Test4-Update.sit
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-Q3F-testfix.sit
 http://www.versiontracker.com/redir.fcgi/kind=1&db=macosx&id=8961/Quake3-Q3F
 
+# linuxquake3.tar.gz
+ftp://ftp.linuxquake.com/pub/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.tabu.uni-bonn.de/pub/fun/games/Q3A/q3atest/linux/linuxquake3.tar.gz
+http://www.bluesnews.com/files/idstuff/quake3/linux/linuxquake3.tar.gz
+http://www.clanworld.org/files/quake3arena/game/linux/linuxquake3.tar.gz
+http://www.linuxquake.com/cgi-bin/getmirrors/ftp.webcom.it/mirrors/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+
 
