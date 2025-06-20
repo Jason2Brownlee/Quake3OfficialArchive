@@ -45,5 +45,3 @@ q3agamesource_127.exe
 # https://www.bluesnews.com/files/idstuff/quake3/linux/linuxq3apoint-127.shtml
 linuxq3apoint-1.27.x86.run
 
-# https://www.bluesnews.com/files/idstuff/quake3/mac/macpointrelease_127.shtml
-MacPointRelease_127.bin

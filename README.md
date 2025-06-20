@@ -55,6 +55,7 @@ Release Date | File | Description
 2000 Dec 16 | [quake3nommx_127g.zip](bin/quake3nommx_127g.zip) | Point Release 1.27g Win32 No MMX
 2000 Dec 17 | [q3ta_serv.zip](bin/q3ta_serv.zip) | Q3TA Server Batch Files
 2000 Dec 10 | [tademobeta.bin](https://www.gamers.org/pub/idgames/idstuff/teamarena/mac/tademobeta.bin) | Q3TA Demo Mac
+2000 Dec ?? | MacPointRelease_127.bin | Point Release 1.27 Mac
 2000 Dec 19 | [mac127beta.bin](bin/mac127beta.bin) | Point Release 1.27g Mac
 2000 Dec 21 | [Q3A_TA_GameSource_127.exe](bin/Q3A_TA_GameSource_127.exe) | Game Source v1.27 Win32
 2000 Dec 21 | [Q3A_ToolSource.exe](/bin/Q3A_ToolSource.exe) | Tool Source Win32
