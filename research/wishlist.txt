@@ -36,7 +36,7 @@ Quake3-132-Test4-Update.sit
 Quake3-Q3F-testfix.sit
 
 
-# these are probably not real
+# these are probably not real!
 # ---------------------------
 
 # https://www.bluesnews.com/files/idstuff/quake3/source/q3agamesource_125.shtml
@@ -45,3 +45,5 @@ q3agamesource_127.exe
 # https://www.bluesnews.com/files/idstuff/quake3/linux/linuxq3apoint-127.shtml
 linuxq3apoint-1.27.x86.run
 
+# https://www.bluesnews.com/files/idstuff/quake3/mac/macpointrelease_127.shtml
+MacPointRelease_127.bin

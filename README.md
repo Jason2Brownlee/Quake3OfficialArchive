@@ -13,6 +13,7 @@ Release Date | File | Description
 1999 Apr 25 | [q3test_server_win32_x86.zip](bin/q3test_server_win32_x86.zip) | Q3Test v1.02 Server Win32
 1999 Apr 29 | q3test-1.03-glibc-6.i386.rpm<br>[q3test-1.03-glibc-6.i386.tar.gz](bin/q3test-1.03-glibc-6.i386.tar.gz)<br>[MacQ3Test_1_03.bin](bin/MacQ3Test_1_03.bin)<br>MacQ3Test_1_03_update.bin<br>[q3test_1_03_win32_server.zip](bin/q3test_1_03_win32_server.zip)<br>[q3test_1_03_win32_server_update.zip](bin/q3test_1_03_win32_server_update.zip) | Q3Test v1.03
 1999 May 10 | [MacQ3Test_1_05.bin](bin/MacQ3Test_1_05.bin)<br>[q3test-1.05-glibc-9.i386.rpm](bin/q3test-1.05-glibc-9.i386.rpm)<br>[q3test-1.05-glibc-9.i386.tar.gz](bin/q3test-1.05-glibc-9.i386.tar.gz)<br>[q3test_1_05.exe](bin/q3test_1_05.exe) | Q3Test v1.05
+1999 May 11 | [glsetup.exe](bin/glsetup.exe) | GL Setup for Quake III Arena Test for Win32
 1999 Jul 16 | [q3test_1_06.exe](bin/q3test_1_06.exe) | Q3Test v1.06 Win32
 1999 Jul 20 | [q3test_win32_1_07.exe](bin/q3test_win32_1_07.exe)<br>[q3test_win32_1_06-07.exe](bin/q3test_win32_1_06-07.exe)<br>q3test-linux-1.07-glibc-4.i386.tar.gz<br>[q3test-linux-1.07-glibc-4.i386.rpm](bin/q3test-linux-1.07-glibc-4.i386.rpm) | Q3Test v1.07
 1999 Aug 03 | MacQ3Test_1_08.bin<br>q3test-1.08-glibc-2.i386.rpm<br>[q3test-1.08-glibc-2.i386.tar.gz](bin/q3test-1.08-glibc-2.i386.tar.gz)<br>[q3test_win32_1_08.exe](bin/q3test_win32_1_08.exe) | Q3Test v1.08
@@ -55,7 +56,6 @@ Release Date | File | Description
 2000 Dec 16 | [quake3nommx_127g.zip](bin/quake3nommx_127g.zip) | Point Release 1.27g Win32 No MMX
 2000 Dec 17 | [q3ta_serv.zip](bin/q3ta_serv.zip) | Q3TA Server Batch Files
 2000 Dec 10 | [tademobeta.bin](https://www.gamers.org/pub/idgames/idstuff/teamarena/mac/tademobeta.bin) | Q3TA Demo Mac
-2000 Dec ?? | MacPointRelease_127.bin | Point Release 1.27 Mac
 2000 Dec 19 | [mac127beta.bin](bin/mac127beta.bin) | Point Release 1.27g Mac
 2000 Dec 21 | [Q3A_TA_GameSource_127.exe](bin/Q3A_TA_GameSource_127.exe) | Game Source v1.27 Win32
 2000 Dec 21 | [Q3A_ToolSource.exe](/bin/Q3A_ToolSource.exe) | Tool Source Win32
