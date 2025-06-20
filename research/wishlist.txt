@@ -7,6 +7,7 @@ MacQ3Test_1_03_update.bin
 q3test-linux-1.07-glibc-4.i386.tar.gz
 MacQ3Test_1_08.bin
 q3test-1.08-glibc-2.i386.rpm
+linuxquake3.tar.gz
 
 # demos
 MacQ3DemoTEST.bin
@@ -48,5 +49,3 @@ linuxq3apoint-1.27.x86.run
 # https://www.bluesnews.com/files/idstuff/quake3/mac/macpointrelease_127.shtml
 MacPointRelease_127.bin
 
-# what is this, demo?
-linuxquake3.tar.gz
