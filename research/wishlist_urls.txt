@@ -187,65 +187,42 @@ http://www.quakeiii.com/downloads/q3DemoTEST.bin
 # q3demoTEST-1.10-5.i386.tar.gz
 ftp://ftp.axg.net/downloads/quake/quake3/Linux/q3demoTEST-1.10-5.i386.tar.gz
 ftp://ftp.bluesnews.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
+ftp://ftp.linuxquake.com/pub/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
+ftp://ftp.splatterworld.de/pub/quake3/idsoftware/linux/q3demoTEST-1.10-5.i386.tar.gz
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3demoTEST-1.10-5.i386.tar.gz
 ftp://www.vgt.ru/win32/progs/games/quake-iii/q3demoTEST-1.10-5.i386.tar.gz
 http://demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.tar.gz
 http://demo.quake3arena.com/quake/linux/q3demotest-1.10-5.i386.tar.gz
+http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.tar.gz
 http://www.fileplanet.com/index.asp?file=32026
 http://www.gulic.org/demos/q3demoTEST-1.10-5.i386.tar.gz
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
-ftp://ftp.splatterworld.de/pub/quake3/idsoftware/linux/q3demoTEST-1.10-5.i386.tar.gz
-http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.tar.gz
-ftp://ftp.linuxquake.com/pub/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
 
 # q3demoTEST-1.10-5.i386.rpm
 ftp://atec.santafe.cc.fl.us/pub/q3demoTEST-1.10-5.i386.rpm
 ftp://fileplanet.gil.com.au/action/quake3/q3demoTEST-1.10-5.i386.rpm
 ftp://files.gameloft.com/files/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 ftp://ftp.bluesnews.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
+ftp://ftp.linuxquake.com/pub/quake3/linux/q3demoTEST-1.10-5.i386.rpm
 ftp://ftp.liquidextremes.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 ftp://ftp.ngi.it/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 ftp://ftp.white-mouse.com/action/quake3/q3demoTEST-1.10-5.i386.rpm
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3demoTEST-1.10-5.i386.rpm
-http://demo.quake3arena.com/quake/linux/q3demotest-1.10-5.i386.rpm
 http://demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
+http://demo.quake3arena.com/quake/linux/q3demotest-1.10-5.i386.rpm
 http://fileplanet.gil.com.au/action/quake3/q3demoTEST-1.10-5.i386.rpm
+http://fileplanet1.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://fileplanet2.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://fileplanet1.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
 http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
-ftp://ftp.linuxquake.com/pub/quake3/linux/q3demoTEST-1.10-5.i386.rpm
+http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
 
 # linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
-ftp://ftp.ais.net/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.barrysworld.com/Quake3/test/linux/linuxquake3.tar.gz
 ftp://ftp.bluesnews.com/idstuff/quake3/linux/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
-ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.epix.net/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.fu-berlin.de/pc/msdos/games/doom/idstuff/quake3/linux/linuxquake3.tar.gz
 ftp://ftp.gamers.de/_sites/quake3/patches/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
-ftp://ftp.gamers.org/pub/games/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
 ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
-ftp://ftp.is.co.za/games/id/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.jussieu.fr/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.linuxquake.com/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.livewire.com.au/pub/idgames1/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.ntua.gr/pub/vendors/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.powerup.com.au/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.sci.fi/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
 ftp://ftp.splatterworld.de/pub/quake3/idsoftware/linux/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
-ftp://ftp.stomped.com/pub/redwood/q3a/linux/linuxquake3.tar.gz
-ftp://ftp.sunet.se/pub/pc/games/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.task.gda.pl/pub/games/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.telepac.pt/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://ftp.warzone.com/pub/quake3/linuxquake3.tar.gz
-ftp://mirror.aarnet.edu.au/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
-ftp://mirrors.aol.com/pub/pc_games/doom/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://qftp1.heat.net/pub/linux/linuxquake3.tar.gz
-ftp://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-ftp://tux.telefragged.com/pub/quake3/linux/linuxquake3.tar.gz
 http://dl.fileplanet.com/dl/dl.asp?quake3/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/quake3/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
 http://www.quakeshit.com/files/linuxquake3-1.16h-to-1.16i-1.i386.tar.gz
@@ -276,8 +253,8 @@ ftp://ftp.idsoftware.com/idstuff/quake3/mac/quake3-MacClassic-129f-BETA.sit
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/mac/quake3-MacClassic-129f-BETA.sit
 http://www.quakeshit.com/files/quake3-MacClassic-129f-BETA.sit
 https://ds-servers.com/gf/quake3-macclassic-129f-beta-sit.html
-https://www.quake3stuff.com/downstats.asp?dlurl=/files/patches/mac/quake3-MacClassic-129f-BETA.sit
 https://en.ds-servers.com/gf/quake3-macclassic-129f-beta-sit.html
+https://www.quake3stuff.com/downstats.asp?dlurl=/files/patches/mac/quake3-MacClassic-129f-BETA.sit
 
 # MacOSX-Q3A-1-31-BETA2.sit
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/MacOSX-Q3A-1-31-BETA2.sit
@@ -290,8 +267,8 @@ http://www.3dgamers.com/dl/games/quake3arena/quake3-1-32-test.dmg.html
 
 # Quake3-132-Test2.dmg
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-132-Test2.dmg
-http://public.ftp.planetmirror.com/pub/idgames/idstuff/quake3/mac/Quake3-132-Test2.dmg
 ftp://public.ftp.planetmirror.com/pub/idgames/idstuff/quake3/mac/Quake3-132-Test2.dmg
+http://public.ftp.planetmirror.com/pub/idgames/idstuff/quake3/mac/Quake3-132-Test2.dmg
 
 # Q3DedicatedServer-132-Test.tar.gz
 ftp://ftp.idsoftware.com/idstuff/quake3/mac/Q3DedicatedServer-132-Test.tar.gz
@@ -308,10 +285,32 @@ ftp://ftp.idsoftware.com/idstuff/quake3/mac/Quake3-Q3F-testfix.sit
 http://www.versiontracker.com/redir.fcgi/kind=1&db=macosx&id=8961/Quake3-Q3F
 
 # linuxquake3.tar.gz
+ftp://ftp.ais.net/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.barrysworld.com/Quake3/test/linux/linuxquake3.tar.gz
+ftp://ftp.cdrom.com/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.epix.net/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.fu-berlin.de/pc/msdos/games/doom/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.gamers.org/pub/games/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.is.co.za/games/id/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.jussieu.fr/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.linuxquake.com/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
 ftp://ftp.linuxquake.com/pub/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.livewire.com.au/pub/idgames1/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.ntua.gr/pub/vendors/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.powerup.com.au/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.sci.fi/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.stomped.com/pub/redwood/q3a/linux/linuxquake3.tar.gz
+ftp://ftp.sunet.se/pub/pc/games/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
 ftp://ftp.tabu.uni-bonn.de/pub/fun/games/Q3A/q3atest/linux/linuxquake3.tar.gz
+ftp://ftp.task.gda.pl/pub/games/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.telepac.pt/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://ftp.warzone.com/pub/quake3/linuxquake3.tar.gz
+ftp://mirror.aarnet.edu.au/pub/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://mirrors.aol.com/pub/pc_games/doom/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://qftp1.heat.net/pub/linux/linuxquake3.tar.gz
+ftp://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
+ftp://tux.telefragged.com/pub/quake3/linux/linuxquake3.tar.gz
 http://www.bluesnews.com/files/idstuff/quake3/linux/linuxquake3.tar.gz
 http://www.clanworld.org/files/quake3arena/game/linux/linuxquake3.tar.gz
 http://www.linuxquake.com/cgi-bin/getmirrors/ftp.webcom.it/mirrors/idgames/idstuff/quake3/linux/linuxquake3.tar.gz
-
 
