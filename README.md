@@ -48,7 +48,7 @@ Release Date | File | Description
 2000 Mar 27 | [q3a_intro.zip](bin/q3a_intro.zip) | Q3 Intro Movie
 2000 May 03 | [q3pointrelease_117.exe](bin/q3pointrelease_117.exe)<br>[linuxq3apoint-1.17.x86.run](bin/linuxq3apoint-1.17.x86.run)<br>[macpointrelease_117.bin](bin/macpointrelease_117.bin) | Point Release v1.17
 2000 May 07 | [Q3AGameSource_117.exe](bin/Q3AGameSource_117.exe) | Game Source v1.17 Win32
-2000 Ma7 09 | [MacQuake3.sit](bin/MacQuake3.sit) | Macintosh Q3A v117 Fix
+2000 Ma7 09 | [MacQuake3.sit](bin/MacQuake3.sit) | Mac v1.17 Fix
 2000 Jul 20 | [server.txt](bin/server.txt) | Server Commands
 2000 Aug 11 | [q3a-intro.mp3](bin/q3a-intro.mp3)<br>[q3a-fla-01.mp3](bin/q3a-fla-01.mp3)<br>[q3a-fla-02.mp3](bin/q3a-fla-02.mp3)<br>[q3a-fla-03.mp3](bin/q3a-fla-03.mp3)<br>[q3a-fla-04.mp3](bin/q3a-fla-04.mp3)<br>[q3a-fla-05.mp3](bin/q3a-fla-05.mp3)<br>[q3a-fla-06.mp3](bin/q3a-fla-06.mp3) | Q3A Music
 2000 Sep 22 | [Q3PointRelease_125.exe](bin/Q3PointRelease_125.exe) | Point Release v1.25 Win32
