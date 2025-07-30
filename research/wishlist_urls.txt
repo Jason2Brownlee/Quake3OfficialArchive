@@ -193,6 +193,7 @@ ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3demoTEST-1.10-5.i386
 ftp://www.vgt.ru/win32/progs/games/quake-iii/q3demoTEST-1.10-5.i386.tar.gz
 http://demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.tar.gz
 http://demo.quake3arena.com/quake/linux/q3demotest-1.10-5.i386.tar.gz
+http://quake.bnbt.de/quake/download/quake3/q3demoTEST-1.10-5.i386.tar.gz
 http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.tar.gz
 http://www.fileplanet.com/index.asp?file=32026
 http://www.gulic.org/demos/q3demoTEST-1.10-5.i386.tar.gz
