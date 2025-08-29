@@ -101,9 +101,11 @@ ftp://sunsite.doc.ic.ac.uk/packages/idgames/idstuff/quake3/linux/q3test-linux-1.
 ftp://tux.telefragged.com/pub/quake3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://was.weiss.ich.wo/q3test-linux-1.07-glibc-4.i386.tar.gz
+http://www.3d-rage.com/files/quake3/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.bluesnews.com/files/idstuff/quake3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.clanworld.org/files/quake3arena/game/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.linuxquake.com/cgi-bin/getmirrors/ftp.webcom.it/mirrors/idgames/idstuff/quake3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
+http://www.multiplayer.it/pub/demo/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.primorye.ru/quake/files/q3/linux/q3test-linux-1.07-glibc-4.i386.tar.gz
 http://www.quakecity.net/files.asp?dir=QUAKE3&file;=Q3TEST-LINUX-1.07-GLIBC-4.I386.TAR.GZ%3C/a%3E%3C/li%3E
 http://www.quakecity.net/files.asp?dir=QUAKE3&file=Q3TEST-LINUX-1.07-GLIBC-4.I386.TAR.GZ
@@ -198,6 +200,7 @@ http://quake.bnbt.de/quake/download/quake3/q3demoTEST-1.10-5.i386.tar.gz
 http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.tar.gz
 http://www.fileplanet.com/index.asp?file=32026
 http://www.gulic.org/demos/q3demoTEST-1.10-5.i386.tar.gz
+http://www.multiplayer.it/pub/demo/q3demoTEST-1.10-5.i386.tar.gz
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
 
 # q3demoTEST-1.10-5.i386.rpm
