@@ -30,7 +30,7 @@ ftp://qftp1.heat.net/pub/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
 ftp://qftp1.heat.net/q3test-1.03-glibc-6.i386.rpm
 ftp://tux.telefragged.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm
 ftp://tux.telefragged.com/pub/quake3/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
-ftp://tux.telefragged.com/q3test-1.03-glibc-6.i386.rpm...
+ftp://tux.telefragged.com/q3test-1.03-glibc-6.i386.rpm
 http://ftp.telepac.pt/pub/3dfiles/games/q3test-1.03-glibc-6.i386.rpm
 http://www.clanworld.org/files/quake3arena/game/linux/q3test-1.03-glibc-6.i386.rpm
 http://www.clanworld.org/files/quake3arena/game/linux/q3test-1.03-glibc-6.i386.rpm%3C/a%3E%3C/p%3E
@@ -182,6 +182,8 @@ ftp://ftp.3dgamers.com/pub/3daction/00archives/quake3arena/releases/MacQ3DemoTES
 ftp://ftp.bluesnews.com/idstuff/quake3/mac/q3DemoTEST.bin
 ftp://ftp.cdrom.com/pub/quake3/idstuff/quake3/mac/q3DemoTEST.bin
 ftp://ftp.meccaworld.com/pub/downloads/quake_3_arena/q3demotest.bin
+ftp://ftp.quake.zipworld.com.au/pub/quake3/mac/q3DemoTEST.bin
+ftp://ftp.quipo.it/pub/ftp.idsoftware.com/idstuff/quake3/mac/q3DemoTEST.bin
 ftp://ftp2.3dgamers.com/pub/3daction/00archives/quake3arena/releases/MacQ3DemoTEST.bin
 ftp://ftp2.stomped.com/pub/stomped/quake3/mac/q3DemoTEST.bin
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/mac/old/q3DemoTEST.bin
@@ -189,12 +191,13 @@ http://demo.quake3arena.com/QUAKE/mac/q3DemoTEST.bin
 http://demo.quake3arena.com/QUAKE/mac/q3demoTEST.bin
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/mac/q3DemoTEST.bin
 http://www.quakeiii.com/downloads/q3DemoTEST.bin
-ftp://ftp.quipo.it/pub/ftp.idsoftware.com/idstuff/quake3/mac/q3DemoTEST.bin
 
 # q3demoTEST-1.10-5.i386.tar.gz
 ftp://ftp.axg.net/downloads/quake/quake3/Linux/q3demoTEST-1.10-5.i386.tar.gz
 ftp://ftp.bluesnews.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
 ftp://ftp.linuxquake.com/pub/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
+ftp://ftp.quake.zipworld.com.au/pub/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
+ftp://ftp.quipo.it/pub/ftp.idsoftware.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
 ftp://ftp.splatterworld.de/pub/quake3/idsoftware/linux/q3demoTEST-1.10-5.i386.tar.gz
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3demoTEST-1.10-5.i386.tar.gz
 ftp://www.vgt.ru/win32/progs/games/quake-iii/q3demoTEST-1.10-5.i386.tar.gz
@@ -206,7 +209,6 @@ http://www.fileplanet.com/index.asp?file=32026
 http://www.gulic.org/demos/q3demoTEST-1.10-5.i386.tar.gz
 http://www.multiplayer.it/pub/demo/q3demoTEST-1.10-5.i386.tar.gz
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
-ftp://ftp.quipo.it/pub/ftp.idsoftware.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
 
 # q3demoTEST-1.10-5.i386.rpm
 ftp://atec.santafe.cc.fl.us/pub/q3demoTEST-1.10-5.i386.rpm
@@ -216,6 +218,8 @@ ftp://ftp.bluesnews.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
 ftp://ftp.linuxquake.com/pub/quake3/linux/q3demoTEST-1.10-5.i386.rpm
 ftp://ftp.liquidextremes.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 ftp://ftp.ngi.it/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
+ftp://ftp.quake.zipworld.com.au/pub/quake3/linux/q3demoTEST-1.10-5.i386.rpm
+ftp://ftp.quipo.it/pub/ftp.idsoftware.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
 ftp://ftp.white-mouse.com/action/quake3/q3demoTEST-1.10-5.i386.rpm
 ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3demoTEST-1.10-5.i386.rpm
 http://demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
@@ -226,7 +230,6 @@ http://fileplanet2.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.
 http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
 http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
-ftp://ftp.quipo.it/pub/ftp.idsoftware.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
 
 # linuxq3apoint-1.27.x86.run
 ftp://ftp.bluesnews.com/idstuff/quake3/linux/linuxq3apoint-1.27.x86.run
