@@ -210,27 +210,6 @@ http://www.gulic.org/demos/q3demoTEST-1.10-5.i386.tar.gz
 http://www.multiplayer.it/pub/demo/q3demoTEST-1.10-5.i386.tar.gz
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
 
-# q3demoTEST-1.10-5.i386.rpm
-ftp://atec.santafe.cc.fl.us/pub/q3demoTEST-1.10-5.i386.rpm
-ftp://fileplanet.gil.com.au/action/quake3/q3demoTEST-1.10-5.i386.rpm
-ftp://files.gameloft.com/files/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-ftp://ftp.bluesnews.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
-ftp://ftp.linuxquake.com/pub/quake3/linux/q3demoTEST-1.10-5.i386.rpm
-ftp://ftp.liquidextremes.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-ftp://ftp.ngi.it/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-ftp://ftp.quake.zipworld.com.au/pub/quake3/linux/q3demoTEST-1.10-5.i386.rpm
-ftp://ftp.quipo.it/pub/ftp.idsoftware.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
-ftp://ftp.white-mouse.com/action/quake3/q3demoTEST-1.10-5.i386.rpm
-ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3demoTEST-1.10-5.i386.rpm
-http://demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
-http://demo.quake3arena.com/quake/linux/q3demotest-1.10-5.i386.rpm
-http://fileplanet.gil.com.au/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://fileplanet1.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://fileplanet2.speakeasy.net/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://ftp1.gamespy.com/pub/fileplanet/action/quake3/q3demoTEST-1.10-5.i386.rpm
-http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.rpm
-http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.rpm
-
 # linuxq3apoint-1.27.x86.run
 ftp://ftp.bluesnews.com/idstuff/quake3/linux/linuxq3apoint-1.27.x86.run
 ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3apoint-1.27.x86.run
