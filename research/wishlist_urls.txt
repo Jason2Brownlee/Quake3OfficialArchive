@@ -192,24 +192,6 @@ http://demo.quake3arena.com/QUAKE/mac/q3demoTEST.bin
 http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/mac/q3DemoTEST.bin
 http://www.quakeiii.com/downloads/q3DemoTEST.bin
 
-# q3demoTEST-1.10-5.i386.tar.gz
-ftp://ftp.axg.net/downloads/quake/quake3/Linux/q3demoTEST-1.10-5.i386.tar.gz
-ftp://ftp.bluesnews.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
-ftp://ftp.linuxquake.com/pub/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
-ftp://ftp.quake.zipworld.com.au/pub/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
-ftp://ftp.quipo.it/pub/ftp.idsoftware.com/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
-ftp://ftp.splatterworld.de/pub/quake3/idsoftware/linux/q3demoTEST-1.10-5.i386.tar.gz
-ftp://mirror.euronet.nl/pub/orange/games/Quake3/linux/old/q3demoTEST-1.10-5.i386.tar.gz
-ftp://www.vgt.ru/win32/progs/games/quake-iii/q3demoTEST-1.10-5.i386.tar.gz
-http://demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.tar.gz
-http://demo.quake3arena.com/quake/linux/q3demotest-1.10-5.i386.tar.gz
-http://quake.bnbt.de/quake/download/quake3/q3demoTEST-1.10-5.i386.tar.gz
-http://www.3dfiles.com/cgi-bin/dl-http.cgi?demo.quake3arena.com/QUAKE/linux/q3demoTEST-1.10-5.i386.tar.gz
-http://www.fileplanet.com/index.asp?file=32026
-http://www.gulic.org/demos/q3demoTEST-1.10-5.i386.tar.gz
-http://www.multiplayer.it/pub/demo/q3demoTEST-1.10-5.i386.tar.gz
-http://www.planetmirror.com/pub/bluesnews/idstuff/quake3/linux/q3demoTEST-1.10-5.i386.tar.gz
-
 # linuxq3apoint-1.27.x86.run
 ftp://ftp.bluesnews.com/idstuff/quake3/linux/linuxq3apoint-1.27.x86.run
 ftp://ftp.idsoftware.com/idstuff/quake3/linux/linuxq3apoint-1.27.x86.run
